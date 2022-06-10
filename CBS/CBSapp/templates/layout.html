@@ -9,7 +9,6 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='main.css') }}">
-
     {% if title %}
         <title>CBS - Cheap Beer Student app {{ title }}</title>
     {% else %}
@@ -20,7 +19,7 @@
     <header class="site-header">
       <nav class="navbar navbar-expand-md navbar-dark bg-steel fixed-top">
         <div class="container">
-          <a class="navbar-brand mr-4" href="/">CBS - Cheap Beer Student </a>
+          <a class="navbar-brand mr-4" href="/" style="color :red;"> CBS - Cheap Beer Student </a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggle" aria-controls="navbarToggle" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -52,7 +51,6 @@
                    <li class="divider"></li>
                    <li><a class="nav-item nav-link" href="{{ url_for('Drinks.bars_shot') }}">Cheapest by shot</a></li>
                    <li><a class="nav-item nav-link" href="{{ url_for('Drinks.bars_ku') }}">Cheapest at KU</a></li>
-                   <li><a class="nav-item nav-link" href="{{ url_for('Drinks.top_fem') }}">Top 5 most sold beers</a></li>
                 </ul>
               </li>
               <li class="dropdown">

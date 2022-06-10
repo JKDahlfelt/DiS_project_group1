@@ -46,12 +46,6 @@ class Bars(tuple):
         self.addr = user_data[5]
         self.postal = user_data[6]
 
-class SoldDrinks(tuple):
-    def __init__(self, user_data):
-        self.bar_id = user_data[0]
-        self.drink_id = user_data[1]
-        self.qty_sold = user_data[2]
-
 class Customers(tuple, UserMixin):
     def __init__(self, user_data):
         self.CPR_number = user_data[0]
@@ -247,8 +241,8 @@ def select_Bars_Beers():
 				SELECT rest_id, AVG(halfliter_price) as halvliter_avg_pr
 				FROM Drinks
 				WHERE rest_id = rest_id AND d_type = 'beer'
-				GROUP BY rest_id) as foo
-				on foo.rest_id = Bars.rest_id
+				GROUP BY rest_id
+                ) as foo on foo.rest_id = Bars.rest_id
     ORDER by foo.halvliter_avg_pr;
     """
     cur.execute(sql,())
@@ -265,8 +259,8 @@ def select_Bars_Cider():
 				SELECT rest_id, AVG(halfliter_price) as halvliter_avg_pr
 				FROM Drinks
 				WHERE rest_id = rest_id AND d_type = 'cider'
-				GROUP BY rest_id) as foo
-				on foo.rest_id = Bars.rest_id
+				GROUP BY rest_id
+                    ) as foo on foo.rest_id = Bars.rest_id
     ORDER by foo.halvliter_avg_pr;
     """
     cur.execute(sql,())
@@ -275,13 +269,12 @@ def select_Bars_Cider():
     return tuple_resultset
 
 def select_Bars_Shot():
-    print('hej')
     # print(CPR_number)
     cur = conn.cursor()
     sql = """
     SELECT bar_name, bar_type, addr, website, halvliter_avg_pr
     FROM Bars join (
-				SELECT rest_id, AVG(halfliter_price) as halvliter_avg_pr
+				SELECT rest_id, AVG(halfliter_price)/25 as halvliter_avg_pr
 				FROM Drinks
 				WHERE rest_id = rest_id AND d_type = 'shot'
 				GROUP BY rest_id) as foo
@@ -309,20 +302,5 @@ def select_Bars_KU():
     """
     cur.execute(sql,())
     tuple_resultset = cur.fetchall()
-    cur.close()
-    return tuple_resultset
-
-def select_top_5_sold():
-    cur = conn.cursor()
-    sql = """
-    SELECT d_name, bar_name, price, qty_sold
-    FROM SoldDrinks INNER JOIN Bars 
-    ON bar_id = rest_id INNER JOIN Drinks
-    ON drink_id = d_id AND Bars.rest_id = Drinks.rest_id
-    WHERE d_type = 'beer'
-    ORDER BY qty_sold DESC
-    """
-    cur.execute(sql,())
-    tuple_resultset = cur.fetchmany(5)
     cur.close()
     return tuple_resultset
