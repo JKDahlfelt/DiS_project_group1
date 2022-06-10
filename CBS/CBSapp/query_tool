@@ -1,0 +1,99 @@
+drop table drinks;
+CREATE TABLE drinks (
+	Rest_id int,
+	D_id int,
+	D_type varchar,
+	volume float,
+	Maker varchar,
+	D_Name varchar,
+	Price float,
+	PRIMARY KEY (Rest_id, D_id)
+);
+
+-- drop table bars;
+CREATE TABLE bars (
+	Rest_id int,
+	bar_name varchar,
+	bar_type varchar,
+	age int,
+	website varchar,
+	addr varchar,
+	postal int,
+	PRIMARY KEY (Rest_id)
+);
+
+COPY drinks FROM 'C:\Users\jespe\KU\DiS\example_project\UIS_bank\bank\drinks.csv' DELIMITER ',' CSV Header;
+COPY bars FROM 'C:\Users\jespe\KU\DiS\example_project\UIS_bank\bank\bars.csv' DELIMITER ',' CSV Header;
+/*
+Update Drinks
+SET volume = volume::float - 0.1
+where rest_id = '2';
+*/
+
+-- adds the column liter_price, which is the price per liter for each beer at a given bar
+ALTER TABLE drinks
+ADD Column halfliter_price float;
+
+-- Calculates the price per liter for each beer at a given bar
+UPDATE drinks
+set halfliter_price = (price::float / volume::float)/2.0
+WHERE  (rest_id, d_id) = (rest_id, d_id);
+
+
+-- calculates the avg. price per half lister for each bar
+/*
+SELECT rest_id, AVG(halfliter_price) as halvliter_avg_pr
+FROM Drinks
+WHERE rest_id = rest_id
+GROUP BY rest_id;
+*/
+
+
+-- Creates the table where the avg. price per half liter is join on Bars
+/*
+SELECT *
+FROM Bars join (
+				SELECT rest_id, AVG(halfliter_price) as halvliter_avg_pr
+				FROM Drinks
+				WHERE rest_id = rest_id
+				GROUP BY rest_id) as foo
+				on foo.rest_id = Bars.rest_id;
+*/
+
+
+-- Finding bars with a price less than ?? per half liter
+SELECT *
+FROM bars join (
+				SELECT rest_id, AVG(halfliter_price) as halvliter_avg_pr
+				FROM drinks
+				WHERE rest_id = rest_id
+				GROUP BY rest_id) as foo
+				on foo.rest_id = Bars.rest_id
+WHERE halvliter_avg_pr < 50;
+/*
+-- Finds bars which is within ?? of a given postal-code
+SELECT *
+FROM Bars
+WHERE 2000 - 200 < Bars.postal AND 2000 + 200 > Bars.postal;
+
+-- find bars under a certain age limit
+SELECT *
+FROM BARS
+WHERE Bars.age < 20;
+
+-- Find bars that has a certain beer:
+SELECT bar_name, addr
+FROM Bars join Drinks on Bars.rest_id = Drinks.rest_id
+WHERE d_name = 'carlsberg'
+INTERSECT
+SELECT bar_name, addr
+FROM Bars
+WHERE 2000 - 200 < Bars.postal AND 2000 + 200 > Bars.postal
+*/
+
+
+
+/*
+SELECT *
+FROM Drinks
+*/

@@ -1,0 +1,1001 @@
+Rest id,Bar_name,Type,Age,Link,Addr,Postal
+1,ps city,restaurant,18,https://city.psbargrill.dk/,pilestræde københavn k,1112
+2,cafeen?,bar,18,https://www.facebook.com/Cafeen1993,universitetsparken 15C København ø, 2100
+3,Lumskebuksen,bar,18,https://lumskebuksen.dk/,Lersø Parkallé 23,2100
+4,Café Runddelen,bar,18,https://www.caferunddelen.dk/,Nørrebrogade 151,2200
+5,Café Midtown,bar,18,http://www.midtown.dk/,Nørre Voldgade 46,1358
+6,Tørst Bar,bar,18,https://toerstbar.dk/,Vestergade 17,1456
+7,Åbenbar,bar,18,http://www.aabenbar.dk/,Frimestervej 2,2400
+8,Café Fuglereden,bar,18,https://cafefuglereden.dk/,Frederikssundsvej 70,2400
+9,Cafe Nemoland,bar,18,https://nemoland.dk/,Fabriksområdet 52,1440
+10,Dahl & Dahl,bar,18,https://dahl-dahl.dk/,Dronningens Tværgade 6,1302
+11,Telemarks bar,bar,18,https://www.dixon.info/,Nordre Fasan Allé 34,2215
+12,Slutteri kro,kro,18,https://www.mcgrath.com/,Rosmarinvej 465,1572
+13,Zinns kro,kro,18,http://trujillo.com/,Sylviavej 475,2064
+14,Silkeborg resturant,resturant,18,https://www.walker.com/,Trekløver Allé 94,2017
+15,Hallands resturant,resturant,18,http://www.harris.com/,Helgolandsgade 520,1479
+16,Ledager kro,kro,18,http://mclean.org/,Rådhusgade 4,2049
+17,Tårnblæser kro,kro,18,https://hayes-keller.org/,Boltonvej 45,1848
+18,Gaunø resturant,resturant,18,https://www.norton.net/,Rødelandsgade 28,2294
+19,Arendals kro,kro,18,https://myers-wood.org/,Vulkangade 130,1962
+20,Messina café,café,18,https://jones.com/,Ny Østervej 64,1518
+21,Upsala bodega,bodega,18,http://wolfe-harris.info/,Dønnerupvej 172,1259
+22,Langkær café,café,18,http://collins-howard.net/,Allersvej 90,1112
+23,Gyldenris kro,kro,18,http://roberts-howard.org/,Saxtorphsstræde 11,1102
+24,Nyrops bodega,bodega,18,https://www.west.biz/,Tovelillevej 1,1068
+25,Egebæks resturant,resturant,18,http://dyer-odonnell.biz/,Herlufsholmvej 963,1493
+26,Paradisæble resturant,resturant,18,https://www.hatfield.com/,Svalehalevej 41,1109
+27,Bymose bodega,bodega,18,https://good.net/,Guldagervej 5,1504
+28,Colbjørnsens resturant,resturant,18,https://wiggins-ramirez.com/,Mosel Allé 1,2065
+29,Thingvalla bodega,bodega,18,https://schneider-ellis.com/,Irisstræde 645,1527
+30,Stenløse café,café,18,https://www.williams-martin.org/,Milosstræde 13,1522
+31,Havne bar,bar,18,https://houston.com/,Hjortdalsvej 2,1991
+32,Lerchenborg café,café,18,https://www.navarro.org/,Ørevadsvej 413,1094
+33,Birkager resturant,resturant,18,http://www.west-burns.com/,Høsterkøb Allé 426,2189
+34,Hyldebær kro,kro,18,http://leach.com/,Ballum Allé 421,1430
+35,Kvæsthus café,café,18,http://carlson.com/,Lønstrupvej 8,1297
+36,Diesel café,café,18,https://velazquez-smith.info/,Hemsedalsvej 3,2075
+37,Teglholm Tvær resturant,resturant,18,https://jones.com/,Alsvej 822,2089
+38,Ægina bar,bar,18,https://berry-gregory.net/,Skydebane Allé 789,1671
+39,Syvens café,café,18,http://willis-york.info/,Engdalsvej 517,2253
+40,Weyses resturant,resturant,18,http://www.brown.com/,Asylstræde 29,2084
+41,Risbyholm resturant,resturant,18,http://carr-hughes.com/,Asminderødvej 91,2256
+42,Ragna kro,kro,18,http://rodriguez.biz/,Ærtebjergvej 526,2033
+43,Valnødde bar,bar,18,https://stone.info/,Kuhlausvej 800,1877
+44,Glente resturant,resturant,18,http://liu-hall.info/,Lundehusvej 31,1404
+45,Klubiens café,café,18,https://perry.info/,Rothesgade 6,2173
+46,Serbiens café,café,18,http://www.johnson-bailey.com/,Bjørnsons Allé 131,1227
+47,Hamlets resturant,resturant,18,https://thomas.com/,Armeniensgade 54,2091
+48,Vestergårds kro,kro,18,https://kaiser.com/,Wibrandtsvej 333,1385
+49,Hallands bodega,bodega,18,http://www.smith.com/,Skoleholdergade 25,1855
+50,Gerdas café,café,18,https://bennett-smith.org/,Ilford Allé 521,2052
+51,Bulbjerg kro,kro,18,https://www.hebert.com/,Magdelonestræde 81,2011
+52,Sluse kro,kro,18,http://murray-robinson.com/,Oldermandsstræde 2,1681
+53,Rosenborg bodega,bodega,18,https://www.ramirez.net/,Malakkavej 51,2264
+54,Hvalsø bodega,bodega,18,https://miller.com/,Tjæreby Allé 2,1856
+55,Kingos bar,bar,18,http://burton-schmidt.com/,Spøttrupvej 359,1395
+56,Dronninglund bodega,bodega,18,https://www.taylor-barnett.com/,Ledagervej 507,1514
+57,Dannebrogs kro,kro,18,http://kelly.org/,Rovsingsgade 7,1458
+58,Agerlands bodega,bodega,18,http://marks.com/,Brydesvej 725,2172
+59,Rabarber bar,bar,18,https://www.hernandez.com/,Knabrovej 4,1878
+60,Kornerup bodega,bodega,18,http://johnson.com/,Fælledstræde 684,1754
+61,Kerteminde bodega,bodega,18,http://wong-payne.info/,Glasvej 10,1773
+62,Belgiens resturant,resturant,18,http://www.brown.com/,Frederiksberggade 29,1601
+63,Stokrose bodega,bodega,18,http://www.johnson.com/,Eriksgade 5,2297
+64,Heibergs kro,kro,18,https://www.marquez-williams.org/,Siamgade 8,1835
+65,Kærager bodega,bodega,18,http://www.cannon.org/,Kløvermarksvej 1,1314
+66,Volos bodega,bodega,18,http://www.ramirez.com/,Stenlillevej 9,2199
+67,Obdams bar,bar,18,https://www.wilson.com/,Gårdtoftevej 98,1922
+68,Knabstrup kro,kro,18,http://www.maddox.com/,Gyrstingevej 2,2035
+69,Løgstør café,café,18,https://www.mitchell-jackson.net/,Nordsøgade 362,2217
+70,Lyngvig bodega,bodega,18,http://hampton.com/,H.C. Sneedorffsstræde 27,1459
+71,Otto Baches bodega,bodega,18,http://parker-benjamin.com/,Studsgaardsvej 51,1896
+72,Dag Hammarskjölds resturant,resturant,18,http://www.carter.com/,Gerts Allé 4,1780
+73,Godthåbs resturant,resturant,18,https://www.ryan-oconnor.com/,Antoinettegade 151,1758
+74,Holte kro,kro,18,https://www.cole.biz/,Kattingegade 9,2152
+75,Marbjerg bodega,bodega,18,https://williams-dorsey.com/,Dagmars Allé 22,2326
+76,Hildurs bodega,bodega,18,https://johnson.com/,Egholmgade 2,1728
+77,Padua resturant,resturant,18,http://www.king-shaffer.info/,Athensgade 427,2278
+78,Lykkebo kro,kro,18,http://pratt-blackburn.com/,Landvindingsgade 58,1520
+79,Vestbane bar,bar,18,http://www.reed.com/,Rosenlundsvej 4,2177
+80,Sofie bodega,bodega,18,https://www.king.net/,Risbyholmvej 3,1420
+81,Valnødde kro,kro,18,https://www.smith.org/,Henriksvej 12,2178
+82,Stenlands café,café,18,https://www.smith-griffith.org/,Glumsøvej 364,1116
+83,Mantua kro,kro,18,http://david-chen.com/,Hedemannsgade 5,1220
+84,Wiedewelts kro,kro,18,https://lee.net/,Reersø Allé 85,1977
+85,Wilders kro,kro,18,https://www.brock-perez.com/,Rosenlundsvej 17,1625
+86,Silke bar,bar,18,http://duffy.com/,Kronprinsensvej 2,1600
+87,Vogter kro,kro,18,http://walters.net/,Boserupgade 743,2329
+88,Bilbao bar,bar,18,https://beard-johnson.com/,Samsøstræde 378,1755
+89,Balders café,café,18,https://www.lee.com/,Theis Allé 724,1192
+90,Rindby bar,bar,18,https://www.brown.com/,Sognefjordsgade 1,1376
+91,Sydhavns café,café,18,https://white-mcbride.net/,Grysgårdsvej 944,2130
+92,Vester Farimags bar,bar,18,https://www.tran.biz/,Sundkrogsgade 47,2394
+93,Støvring café,café,18,https://taylor.com/,Sparresholmgade 89,2377
+94,Hjelms café,café,18,http://www.fields.com/,Odins Tværgade 74,1981
+95,Valgårds café,café,18,https://hull.com/,Oxfordgade 376,2066
+96,Artilleri resturant,resturant,18,https://www.howard-martinez.com/,Randersgade 88,1283
+97,Ledager kro,kro,18,https://bowers-schaefer.com/,Bogtrykkerstræde 902,1688
+98,Parma resturant,resturant,18,http://www.moore-kelley.com/,Primulagade 6,1753
+99,Wibrandts resturant,resturant,18,http://williams.com/,Trondhjemsvej 3,1435
+100,Jernbane café,café,18,https://www.mcdaniel-higgins.com/,Henriksgade 319,1272
+101,Sporemager café,café,18,https://www.graham.com/,Lyngholmvej 669,2094
+102,Ystad bar,bar,18,http://www.walker-foster.biz/,Sørup Allé 6,2290
+103,Mellemforts resturant,resturant,18,https://hill.com/,Thygade 76,1092
+104,Kongelunds bar,bar,18,http://www.jackson-wells.com/,Snorresgade 62,1086
+105,Solsikke resturant,resturant,18,https://bernard.com/,Hallinsvej 5,1349
+106,Iran kro,kro,18,http://www.kelly.com/,Sadelmagergade 38,1378
+107,Ehlers resturant,resturant,18,http://www.fuentes-kelly.net/,Hirtshalsgade 7,2086
+108,Spaniens resturant,resturant,18,http://www.schmitt-patel.com/,Montagnegade 7,2165
+109,Horsekilde bar,bar,18,https://forbes.com/,Røså Allé 93,2341
+110,Brønshøj Kirke bodega,bodega,18,https://leon-smith.net/,Brøndkærvej 84,1973
+111,Støvring bar,bar,18,http://www.kline-deleon.com/,Præstekærgade 7,2122
+112,Offenbachs kro,kro,18,http://smith-taylor.com/,Valmue Allé 696,1858
+113,Fælled bodega,bodega,18,https://www.adams-romero.com/,Fuglsangstræde 892,1707
+114,Bjerregårds Side resturant,resturant,18,http://www.hawkins.com/,Dagø Allé 3,1170
+115,Norgesminde café,café,18,http://www.lyons-guzman.info/,Horsensvej 1,1307
+116,Gartneri bar,bar,18,http://smith.org/,Hasselstræde 7,1147
+117,Tjørnelunds café,café,18,http://www.parsons.info/,Sønderborggade 47,1194
+118,Ravnsborg kro,kro,18,http://howard-morales.info/,Lerfosstræde 45,1685
+119,Skoubo café,café,18,https://www.becker.com/,Burgundyvej 568,1374
+120,Lille Kirke resturant,resturant,18,http://stewart.com/,Nokken Forngade 335,2206
+121,Bulgariens café,café,18,https://www.williams.com/,Vesterbrogade 4,1317
+122,Thors kro,kro,18,https://herrera-howe.com/,Aberdeengade 1,2198
+123,Ottilia kro,kro,18,http://wilcox.com/,Saxogade 3,2259
+124,Isted bar,bar,18,https://romero.com/,Tøndebindervej 35,2217
+125,Kirkegårds resturant,resturant,18,http://short-hall.com/,Ansgarsvej 467,1401
+126,Knivholt bodega,bodega,18,http://www.campbell.com/,P.D. Løvsgade 181,2092
+127,Dronning Elisabeths kro,kro,18,http://cannon.com/,Stenhuggervej 9,1824
+128,Eriks bar,bar,18,http://york-aguilar.com/,Reinette Allé 40,1760
+129,Lille Strand kro,kro,18,https://www.smith.net/,Brøndæble Allé 64,1471
+130,Linnés bodega,bodega,18,http://www.robbins.com/,Fredenshøjgade 967,1936
+131,Flinterup bodega,bodega,18,http://www.miller-gutierrez.com/,Pile Allé 9,1447
+132,Præstekær resturant,resturant,18,http://www.miller-cordova.com/,Smedestræde 4,1263
+133,Omø resturant,resturant,18,https://richardson.com/,Javavej 4,1656
+134,Sydløbs bodega,bodega,18,http://www.sims.com/,Hellelidenvej 369,2073
+135,Snorres kro,kro,18,https://www.johnson-nelson.com/,Strandengade 9,1716
+136,Billed bodega,bodega,18,https://www.weiss.com/,Musholm Allé 5,1873
+137,Nansens café,café,18,https://washington-meyer.info/,Sakskøbing Allé 4,1087
+138,Kansas bar,bar,18,https://adams-kaufman.com/,Fortunvej 5,1461
+139,Musholm café,café,18,https://www.murphy-brennan.info/,Alliancevej 943,2203
+140,Montagehals bar,bar,18,https://www.decker-martinez.com/,Hannovervej 5,1744
+141,Asger Jorns resturant,resturant,18,https://pitts.com/,Bavnehøjvej 9,1486
+142,Dalby café,café,18,https://aguilar-king.com/,Krokodillegade 18,1247
+143,Fyens resturant,resturant,18,https://www.parker.org/,Slotsherrensvej 537,2171
+144,Grønjords café,café,18,http://martin.com/,Stenlillegade 9,2144
+145,Arkona resturant,resturant,18,http://stephenson-acevedo.com/,Nordmarksgade 840,2140
+146,Stenmagle bar,bar,18,https://www.wagner.com/,Borgergade 2,1183
+147,Ahorns kro,kro,18,https://www.craig-rollins.org/,Boeslundevej 13,1223
+148,Snorres bar,bar,18,http://wright.biz/,Haldagervej 65,1397
+149,Søllerød bar,bar,18,http://johnson.org/,Hjørringstræde 645,2152
+150,Tibirke bar,bar,18,https://www.woodard-evans.net/,Kompagnigade 929,1598
+151,Slåen café,café,18,https://holland.com/,Stenløsegade 410,2279
+152,Nærum bodega,bodega,18,https://petersen.biz/,Oldfuxgade 1,1572
+153,Amsterdam café,café,18,https://www.rivers.info/,Kongebrogade 920,1743
+154,Gråbynke café,café,18,https://flores-flynn.com/,Katrinedalsvej 4,1283
+155,Utterslev café,café,18,http://holland.com/,Valmue Allé 60,1531
+156,Ætna bodega,bodega,18,http://tucker.com/,Slotsholms Allé 78,2051
+157,Oehlenschlægers bar,bar,18,http://www.miranda.info/,Tallinnvej 71,2237
+158,Greis bodega,bodega,18,https://herrera-jones.com/,Dagøgade 17,1263
+159,Heimdals café,café,18,https://www.riley-andersen.com/,Arkonavej 58,1130
+160,Katholm resturant,resturant,18,https://brown.com/,Fjenneslev Allé 8,1199
+161,Hagested resturant,resturant,18,http://www.fields.info/,Gåsebæksvej 9,1351
+162,Container bar,bar,18,https://hoover.com/,Fjenneslevvej 8,1748
+163,Marmor kro,kro,18,http://www.powell-castillo.com/,Præstøvej 22,2309
+164,Dannebrogs bodega,bodega,18,http://jones.com/,Leifsvej 997,1824
+165,Holte kro,kro,18,https://www.rowland-peterson.com/,Brønshøj Kirkevej 18,2218
+166,Løgæble bodega,bodega,18,http://www.dunlap-white.com/,Vigerslev Godsgade 83,1508
+167,Skotterup bodega,bodega,18,https://mueller.info/,Edelsmindestræde 497,1217
+168,Valkendorfs café,café,18,https://cherry-thompson.com/,Mørkhøj Allé 78,1797
+169,Jyllinge café,café,18,http://www.estes.net/,Gamle Vasbystræde 45,2205
+170,Dannevirke bodega,bodega,18,https://page-wilson.org/,Nøkkerosevej 2,1284
+171,Meinungs resturant,resturant,18,https://www.harris.com/,Fakse Tværvej 8,1617
+172,Bolands kro,kro,18,https://edwards-nunez.org/,Toftøjegade 924,1143
+173,Korinth café,café,18,https://www.brooks.com/,Lupingade 68,1075
+174,Visby bodega,bodega,18,https://young.org/,Tornsangervej 9,1079
+175,Voldmester kro,kro,18,https://www.white.com/,Stenlillegade 23,1896
+176,Cyperns kro,kro,18,https://www.gonzalez.biz/,Skoleholdergade 5,1131
+177,Sternberg bar,bar,18,https://www.clark.com/,Bakkestræde 627,1540
+178,Remise bodega,bodega,18,http://hill-zimmerman.com/,Ny Adelgade 361,1912
+179,Iris bar,bar,18,https://phelps.org/,Tårnhusvej 3,1286
+180,Skjulhøj resturant,resturant,18,http://williams-whitaker.com/,Spanagervej 50,1392
+181,Ourø bar,bar,18,https://harrison-myers.com/,Risagervej 433,1375
+182,Bredelands kro,kro,18,http://www.lewis.com/,Nørretoftevej 79,1941
+183,Nørager resturant,resturant,18,https://ruiz.com/,Rønningsgade 438,2161
+184,Syvens café,café,18,http://www.hill.com/,Tåstrupstræde 2,2176
+185,Syvstens café,café,18,http://callahan.net/,Dannevirkevej 22,2026
+186,Lykkebo café,café,18,http://shepherd-lee.org/,Sibeliusstræde 571,1255
+187,Pernille bar,bar,18,http://www.bell-richards.net/,Bygmestergade 78,2385
+188,Vester café,café,18,https://www.miller-richardson.org/,Baltika Allé 2,1131
+189,Landfoged kro,kro,18,http://mcguire.biz/,Cork Allé 13,1071
+190,Frilands café,café,18,https://lin.net/,Bryggergade 59,2271
+191,Nordby café,café,18,https://werner.com/,Annebergstræde 319,1971
+192,Gerdas resturant,resturant,18,https://www.smith.com/,Nakskovvej 53,1691
+193,Bredelands resturant,resturant,18,https://www.green.com/,Krogerupvej 9,1178
+194,Palermo kro,kro,18,http://holmes-martin.com/,Glucksvej 78,1699
+195,Clematis bodega,bodega,18,http://smith.info/,Artilleristræde 63,1983
+196,Kentia kro,kro,18,https://howard.com/,Knabrovej 21,1562
+197,Mosedal bar,bar,18,http://www.warren.com/,Bergthorasvej 54,2315
+198,Malta bodega,bodega,18,https://thomas.info/,Ingrid Marievej 38,2010
+199,Vestergårds café,café,18,http://www.hardy.com/,Brohusvej 4,1580
+200,Vatna bar,bar,18,http://www.marshall.biz/,Arkonastræde 2,2159
+201,Haydns bar,bar,18,https://www.reyes.com/,Klubiensvej 49,1679
+202,Gørtler bar,bar,18,https://www.mclaughlin.com/,Tryggevælde Allé 805,1554
+203,Palermo café,café,18,https://www.hendrix.com/,Jordbærvej 820,1216
+204,Kina café,café,18,http://smith-bradley.com/,Schubertsvej 7,1233
+205,Omø resturant,resturant,18,http://www.love-cooper.org/,Sokkelunds Allé 8,1235
+206,Rørsanger bodega,bodega,18,https://www.reed.com/,Southamptongade 9,2367
+207,Dompap café,café,18,http://www.ross-summers.org/,Tønnesvej 5,1515
+208,Langebro resturant,resturant,18,http://www.lucas.com/,Frilandsstræde 69,1678
+209,Dronningens kro,kro,18,https://www.garcia.com/,Raunstrup Allé 7,1720
+210,Rodos bar,bar,18,http://www.schmidt.com/,Larsbjørnsvej 5,1698
+211,Hare bodega,bodega,18,http://murray.biz/,Wesselsvej 73,1670
+212,Trekroner bar,bar,18,http://www.wood.com/,Torben Oxesvej 920,1734
+213,Cox Orange kro,kro,18,http://guerrero-harris.com/,Larsbjørns Allé 3,2164
+214,Matthæus bodega,bodega,18,http://www.dixon.com/,Sigyns Allé 9,2235
+215,Vallekilde bodega,bodega,18,https://parker-knight.com/,Zinnsvej 9,1238
+216,Ingolfs bar,bar,18,http://www.schwartz.com/,Carl Nielsens Allé 1,1500
+217,Elias kro,kro,18,https://galloway.info/,Eskadregade 4,1549
+218,Hustofte resturant,resturant,18,http://www.mcfarland.com/,Assensvej 52,1198
+219,Basnæs café,café,18,https://wong.com/,Tjørnelundsvej 381,2178
+220,Lodi kro,kro,18,https://mitchell.com/,Dunkerquegade 99,1203
+221,Svane kro,kro,18,https://www.mathews-lopez.net/,Værksted Allé 11,2351
+222,Kjærstrup kro,kro,18,http://becker.net/,Ulvefodstræde 83,1645
+223,Kilholm café,café,18,http://www.key-wilcox.info/,Birma Allé 1,2060
+224,Hardanger resturant,resturant,18,https://www.wright.biz/,Lindegade 54,1365
+225,Selsø kro,kro,18,http://lucas-valentine.com/,Katholmgade 581,2076
+226,Sankelmarks café,café,18,http://www.vaughan.com/,Lauragade 60,1207
+227,Flinterup bodega,bodega,18,http://www.obrien.org/,Tjørne Allé 84,1404
+228,Holbæk bar,bar,18,https://williams.com/,Nystedstræde 222,1356
+229,Vestager bar,bar,18,http://www.berry-williams.biz/,Bolandsstræde 175,1704
+230,Hestemølle café,café,18,https://sandoval.com/,Lautrupsstræde 864,1268
+231,Kongedybs bodega,bodega,18,http://www.harris-coleman.info/,Landehjælpstræde 8,2282
+232,Holsteinborg café,café,18,http://pratt.com/,Borneostræde 251,1308
+233,Istanbul bar,bar,18,https://www.shields.biz/,Lautrupsgade 5,1340
+234,Tåsinge bodega,bodega,18,http://www.marshall.info/,Petersborgvej 51,1115
+235,Boldhus café,café,18,https://www.turner.com/,Parosvej 32,2326
+236,Syriens bodega,bodega,18,http://miranda.org/,Klosterrisvej 602,1470
+237,Elselille bar,bar,18,http://www.duran.com/,Farumvej 875,1662
+238,Ulriksdal resturant,resturant,18,https://smith.com/,Brønshøjgårdvej 978,2150
+239,Musholm bar,bar,18,https://barnes-franklin.com/,Danshøjvej 8,1149
+240,Strynø bar,bar,18,http://taylor.com/,Solrødvej 3,1567
+241,Tårnblæser kro,kro,18,http://www.moreno-gregory.com/,Bagervej 17,1964
+242,Kingston resturant,resturant,18,https://www.velazquez-snow.com/,Kielstræde 55,2174
+243,Lærke café,café,18,http://lambert.org/,Alperosevej 5,2158
+244,Karlslunde resturant,resturant,18,https://fleming.com/,Vejrøgade 9,2151
+245,Teglholm resturant,resturant,18,http://martinez-giles.com/,Bellidagade 2,1072
+246,Stenløse resturant,resturant,18,https://thomas-clark.com/,Carl Nielsensvej 49,1743
+247,Sofienhøj bar,bar,18,https://barnes.info/,Emdrup Engvej 852,1578
+248,Ålands resturant,resturant,18,http://www.smith.com/,Knabrogade 597,1099
+249,Gefions resturant,resturant,18,https://www.spence.org/,Parmavej 6,2218
+250,Rosenlunds kro,kro,18,http://price.com/,Studievej 545,1177
+251,Odins café,café,18,http://www.solomon-gutierrez.com/,Strødamgade 88,2237
+252,Tornsanger bar,bar,18,https://fisher.com/,Nybrovej 813,2265
+253,Ålstrup bar,bar,18,https://johnson.com/,Skåne Allé 476,1333
+254,Trekroner café,café,18,https://www.carlson-foster.info/,Windsorvej 522,1617
+255,Farum resturant,resturant,18,https://www.moore.biz/,Reverdils Allé 726,2205
+256,Bogenæs resturant,resturant,18,https://www.nguyen.com/,Ehlers Allé 1,1402
+257,Trangravs bodega,bodega,18,http://www.snyder-smith.com/,Rebildvej 29,1232
+258,Dorthea bar,bar,18,https://benitez.com/,J.P.E. Hartmannsvej 55,2045
+259,Syvstens kro,kro,18,http://www.bell-cummings.net/,Agnetegade 57,1413
+260,Suensons bodega,bodega,18,http://wong-smith.com/,Næsbyholmvej 11,1699
+261,Tomsgårds bodega,bodega,18,http://james.biz/,Støvnæsvej 7,2378
+262,Lindgreens resturant,resturant,18,https://www.morgan.com/,Herbergenvej 3,2358
+263,Nokken Strand bar,bar,18,http://www.aguirre-sherman.org/,Stevnsvej 36,1538
+264,Murcia café,café,18,http://ellison.com/,Sigurdsvej 124,2063
+265,Hellebæk resturant,resturant,18,http://montgomery.com/,Lædervej 5,1510
+266,Stadfeldts resturant,resturant,18,https://lawrence.biz/,Hammelstrup Allé 6,1740
+267,Gåsebæks bodega,bodega,18,https://www.gonzalez.org/,Hornemansstræde 1,2301
+268,Markskifte café,café,18,https://www.dixon.com/,Hustoftegade 842,2373
+269,Ugle bar,bar,18,http://carpenter.com/,Vennely Allé 3,1148
+270,Kaalunds kro,kro,18,https://cannon.com/,Dalslandsgade 2,2097
+271,Kaalunds café,café,18,http://hall.biz/,Meklenborggade 668,1376
+272,Frimester bodega,bodega,18,https://www.herring-nichols.com/,Kongedybsgade 62,1467
+273,Engblomme café,café,18,https://www.palmer.com/,Ærtelandsgade 9,1661
+274,Ottilia café,café,18,https://www.jensen-clark.biz/,Holbergs Allé 5,2181
+275,Serbiens café,café,18,https://cole.com/,Hirtshalsvej 45,1388
+276,Sundbyvester resturant,resturant,18,https://robbins.biz/,Nørre Søvej 6,2267
+277,Antoinette kro,kro,18,http://mcintyre.com/,Møllegårdsvej 6,1302
+278,Præstø bodega,bodega,18,https://www.hill.com/,Dublingade 20,2102
+279,Høyens bodega,bodega,18,http://www.scott.com/,Raunstrupvej 9,1822
+280,Sæbyholms bar,bar,18,https://www.mccarty.biz/,Stratfordvej 16,1369
+281,Skensved café,café,18,https://flores.com/,Løvetandsgade 73,1923
+282,Grevinge bar,bar,18,https://berry.com/,Normandistræde 7,2216
+283,Tomsgårds kro,kro,18,https://forbes.com/,Vestergade 971,2063
+284,Reventlows resturant,resturant,18,http://kent.org/,Nørre Sø Allé 509,2354
+285,Brynhilde café,café,18,https://www.cervantes-ramirez.org/,Samosvej 84,1836
+286,Bratskov bodega,bodega,18,https://rowe-ward.net/,Holbækmotoren Allé 1,1387
+287,Meinungs bodega,bodega,18,http://sims.net/,Elme Allé 147,1133
+288,Krims bodega,bodega,18,http://davidson.info/,Augustagade 343,1235
+289,Landehjælp café,café,18,https://baker-taylor.com/,Syvstensgade 679,2337
+290,Grysgårds kro,kro,18,http://mills.net/,Trondhjemsvej 930,1597
+291,Øresund Park kro,kro,18,http://fernandez-hamilton.com/,Romsdalsvej 5,1334
+292,Fuglefænger bodega,bodega,18,http://arroyo.com/,Stokrose Allé 3,1217
+293,Bogfinke resturant,resturant,18,http://www.wood-cooper.com/,Ahlmannsvej 61,1543
+294,Højsager resturant,resturant,18,http://www.king.com/,Stefansgade 28,1936
+295,Ourø resturant,resturant,18,http://www.foster-ward.com/,Hjertensfrydsvej 55,1387
+296,Tornebuske café,café,18,http://www.gonzalez.com/,Solitudestræde 269,1947
+297,Teglholm bar,bar,18,https://www.jordan.com/,Linnésstræde 16,2324
+298,Hedeby resturant,resturant,18,http://dean.net/,Amagermotoren Allé 6,1484
+299,Lerfos kro,kro,18,http://bass.com/,Haderslevvej 1,1933
+300,Frederiksberg bodega,bodega,18,https://www.sharp.com/,Møllevej 8,2143
+301,Händels resturant,resturant,18,https://marsh-johnson.com/,Haydnsgade 5,1291
+302,Kampmanns café,café,18,https://www.morton.com/,Valborgvej 246,1618
+303,Havsgårds bar,bar,18,http://martin.com/,Carls Allé 34,1825
+304,Birkager bodega,bodega,18,https://green.com/,Vulkan Allé 1,1058
+305,Holbækmotoren bar,bar,18,http://www.caldwell.com/,Ny Kongens Allé 9,2132
+306,Holsteinborg resturant,resturant,18,https://martinez.net/,Ny Kongens Allé 7,2235
+307,Masnedø kro,kro,18,https://www.lee-morris.com/,Bomhusgade 26,1113
+308,Kerteminde bodega,bodega,18,http://www.logan.info/,Jenagade 784,1546
+309,Saxhøj café,café,18,http://gilbert.com/,Nordfeldvej 51,1473
+310,Kongedybs bar,bar,18,http://www.wilson.org/,Stenlillegade 62,1633
+311,Frejas bar,bar,18,http://www.mcdonald-payne.com/,Sundbyvesterstræde 2,2160
+312,Kronborg bar,bar,18,http://mendoza.biz/,Karlstadsvej 92,1609
+313,Limfjords café,café,18,https://villarreal-hill.com/,Floridagade 60,2249
+314,Sundby Park café,café,18,http://norton.com/,Pallesvej 78,1964
+315,Bryggeri bar,bar,18,http://williams.info/,Toskifte Allé 91,2166
+316,Asters café,café,18,https://www.rodriguez.com/,Obdamsgade 888,2055
+317,Thyras resturant,resturant,18,https://www.hopkins.info/,Ringstedstræde 93,1299
+318,Augusta bar,bar,18,https://snyder.com/,Lerfosvej 7,2218
+319,Himmerlands resturant,resturant,18,https://evans.org/,Toftebakkevej 665,1469
+320,Åbakke café,café,18,https://lee.org/,Stockholms Allé 785,1271
+321,Toftegårds kro,kro,18,https://www.mercer.net/,Fanøvej 7,1291
+322,Klubiens bodega,bodega,18,https://adams-wells.org/,Asyl Allé 4,1077
+323,Edel Sauntes bodega,bodega,18,https://www.carter.com/,Oxfordgade 507,1657
+324,Hardenberg bar,bar,18,https://www.waller.biz/,Boyes Allé 478,1203
+325,Glænø bodega,bodega,18,http://www.freeman-conley.biz/,Magdelonevej 9,1815
+326,Weidekamps bodega,bodega,18,http://www.flores-craig.com/,Stradellasvej 2,1687
+327,Küchlers resturant,resturant,18,http://www.thompson-marquez.com/,Valby Maskinfabriks Allé 4,2080
+328,Hardanger café,café,18,https://johnson.biz/,Støvnæsvej 685,2132
+329,Øster Farimags café,café,18,http://www.quinn.com/,Siamvej 208,1051
+330,Vestre kro,kro,18,http://mckenzie.info/,Taffelæblegade 7,1955
+331,Torben Oxes resturant,resturant,18,https://www.thomas.com/,Stradellasgade 40,1767
+332,Krauses café,café,18,https://fernandez.org/,Lyshøjvej 420,2154
+333,Palæ resturant,resturant,18,https://www.patterson.org/,Hørhusgade 7,1745
+334,Lundbyes bodega,bodega,18,https://beck.net/,Fafnersvej 199,2058
+335,Statholder kro,kro,18,https://www.lopez.com/,Persiensgade 14,2376
+336,Møntmester resturant,resturant,18,http://www.lang-bailey.biz/,Bangsbogade 53,1833
+337,Haldager bar,bar,18,http://www.morrison.com/,Løjtegårds Allé 808,2190
+338,Blåbær kro,kro,18,http://oconnor.info/,Estlandsvej 1,1618
+339,Dublin bodega,bodega,18,https://graham.org/,Landlystvej 2,2096
+340,Ramunds bar,bar,18,http://bell-brewer.info/,Glucksvej 58,1995
+341,Ravneholms bodega,bodega,18,http://www.blair-nunez.net/,Lille Colbjørnsensgade 7,2108
+342,Humlebæk resturant,resturant,18,http://wright.biz/,Nærumgade 3,1675
+343,Larslejs bar,bar,18,http://www.kim.net/,Masteskursgade 8,1970
+344,Himmerlands bodega,bodega,18,https://www.williams-brown.com/,Gribskovgade 318,2137
+345,Bogtrykker bar,bar,18,https://whitney.net/,Lystrupstræde 225,1786
+346,Brobergs bodega,bodega,18,http://www.hernandez.com/,Sundby Parkstræde 59,1057
+347,Vermlands resturant,resturant,18,https://young.com/,Persiensvej 51,2236
+348,Glinkas resturant,resturant,18,http://baker-winters.com/,Brønshøjholmsgade 654,1879
+349,Belle de Boskoop café,café,18,http://ramirez.com/,Markmandsgade 993,2323
+350,Borreby bodega,bodega,18,https://brown.com/,Valkendorfs Allé 6,1188
+351,Ørhage resturant,resturant,18,https://www.rivas.com/,Radisegade 45,1557
+352,Clematis café,café,18,https://mann.biz/,Stormvej 705,2339
+353,Ramløse kro,kro,18,https://www.montgomery-diaz.com/,Vestbanestræde 327,1883
+354,Reinette bar,bar,18,http://stewart-johnson.net/,Rentemestergade 6,2347
+355,Orlogsværft resturant,resturant,18,http://www.pierce-fowler.com/,Bodilsgade 49,1603
+356,Hvidkilde bar,bar,18,http://smith.com/,Mimosavej 97,1200
+357,Rindby bodega,bodega,18,http://www.tucker.com/,Istanbulstræde 5,1070
+358,Nebraska café,café,18,http://robinson.com/,Ahrenkildesvej 8,1591
+359,Tuborg resturant,resturant,18,http://li.biz/,Ringkøbingvej 577,2164
+360,Klosterris café,café,18,https://spears.com/,Markskifte Allé 6,1361
+361,Tromsø resturant,resturant,18,https://haynes-kim.org/,Glinkasgade 75,1581
+362,Dirchs resturant,resturant,18,https://nichols-dyer.com/,Uffesvej 56,1397
+363,Aggersvold resturant,resturant,18,https://www.smith.com/,Vesterbrovej 7,2095
+364,Hellas kro,kro,18,http://turner.com/,Kongostræde 3,1604
+365,Gammel Køge Lande bodega,bodega,18,https://www.davidson.com/,Lystrupvej 354,1251
+366,Engskifte bodega,bodega,18,http://hayes.com/,Klaipeda Allé 60,1915
+367,Tømrer kro,kro,18,https://www.snyder.com/,Skyttegårdvej 74,1777
+368,Telemarks kro,kro,18,https://reed.com/,Aggersborgvej 997,2395
+369,Olufs resturant,resturant,18,http://robertson.net/,Bykildegade 307,1090
+370,Lyneborg bar,bar,18,http://lynch.info/,Ebbe Rodes Allé 473,2088
+371,Murmansk bar,bar,18,http://www.love.com/,Flaskestræde 249,1240
+372,Vagtmester resturant,resturant,18,http://johnson.org/,Guldbergsvej 29,2352
+373,Utterslev café,café,18,http://www.krause.biz/,Jenastræde 222,2289
+374,Drejø café,café,18,http://pena-middleton.info/,Skoleholdervej 8,1477
+375,Antoni bodega,bodega,18,http://ortega.com/,Ålstrupstræde 837,1475
+376,Elias bar,bar,18,https://meyer-harrison.org/,Skovharevej 58,1733
+377,Beethovens café,café,18,https://www.ferrell.com/,Vennemindevej 901,1190
+378,Humlebæk kro,kro,18,http://www.huff.org/,Æbeløvej 14,2121
+379,Holbæk café,café,18,http://solis.org/,Valby Kirkevej 642,2008
+380,Svogerslev bodega,bodega,18,http://kirby-medina.com/,Kristianiavej 69,2192
+381,Kolding kro,kro,18,http://www.lee.com/,Rosenvængetsgade 963,1395
+382,Upsala café,café,18,http://www.rogers-wolf.biz/,Majrosegade 21,2387
+383,Ahlmanns bodega,bodega,18,https://www.warren-madden.com/,Møllegade 327,1602
+384,Hessens café,café,18,https://www.oliver.com/,Amaliegade 402,2298
+385,Valhals bar,bar,18,http://cole.com/,Sassnitzvej 200,1853
+386,Ny Kongens bodega,bodega,18,http://www.gordon.com/,Stenløsevej 7,1868
+387,Hørhus bar,bar,18,http://smith.com/,Selevej 832,2040
+388,Krudtmøllegårds café,café,18,http://shaw.com/,Blushøjgade 5,2300
+389,Ærtebjerg café,café,18,http://www.blankenship.com/,Derby Allé 5,1505
+390,Sadelmager café,café,18,http://wagner.com/,Toldskriverstræde 369,2299
+391,Valhøj bar,bar,18,https://higgins.org/,Luganovej 869,1112
+392,Ballum bodega,bodega,18,http://www.nguyen.com/,Å Allé 56,1874
+393,Nelson Mandelas café,café,18,http://hale-harris.com/,Rørmosestræde 10,1934
+394,Ulrik Birchs bar,bar,18,https://brown.info/,Østersøvej 65,1601
+395,Nørre Vold bar,bar,18,https://www.nunez-franklin.com/,Oliemøllegade 35,1198
+396,Klaksvigs bar,bar,18,http://nixon.com/,Aldersrostræde 4,2236
+397,Amalie resturant,resturant,18,https://hernandez.net/,Røddinggade 54,2240
+398,Asnæs bar,bar,18,http://www.cunningham.com/,Islevhusgade 432,2291
+399,Gudenå café,café,18,http://lucas-park.org/,Krausesstræde 8,1990
+400,Haydns bodega,bodega,18,https://www.johnson.info/,Vestmannavej 847,1382
+401,Tudseminde bar,bar,18,http://glenn-watson.com/,Pommernsvej 439,1332
+402,Rosenborg resturant,resturant,18,http://www.reed.com/,Sølundsvej 6,1789
+403,Godsbane café,café,18,http://gonzalez.com/,Lille Kongensstræde 181,1870
+404,Ferring bar,bar,18,http://ballard.com/,Bellidastræde 141,1287
+405,Aberdeen bar,bar,18,https://oneal.info/,Hagestedvej 870,1675
+406,Nysø kro,kro,18,http://moran.com/,Drejøgade 57,1267
+407,Esthers bar,bar,18,http://www.martin.com/,Købmagergade 77,1863
+408,Sigurds café,café,18,https://www.garner-barrett.com/,Vestergade 22,2058
+409,Svane kro,kro,18,http://boone.com/,Steenbergsgade 66,1432
+410,Sydløbs kro,kro,18,https://davis.net/,Markskiftevej 66,1163
+411,Sommersted bodega,bodega,18,https://www.taylor.net/,Hovedvagtsvej 139,1097
+412,Østerbro bar,bar,18,https://www.watson-foster.com/,Rørholms Allé 576,1121
+413,Heldbo resturant,resturant,18,http://www.simpson.com/,Enveloppevej 57,2132
+414,Voldmester bodega,bodega,18,http://www.reid.biz/,Helikonsstræde 11,1955
+415,Drejø café,café,18,https://miller.com/,Leifsvej 656,1612
+416,Bergens kro,kro,18,http://www.collier.com/,Nøragervej 9,2305
+417,Store Søndervold bar,bar,18,https://www.jensen.net/,Grevinge Allé 7,1245
+418,Telemarks bar,bar,18,https://www.rivera.com/,Tuelandsvej 412,1868
+419,Mansas bar,bar,18,http://baldwin-ryan.biz/,Thorupgårdgade 8,2063
+420,Pommerns resturant,resturant,18,https://www.petersen.biz/,Fuglsangvej 7,1823
+421,Toftegårds bar,bar,18,https://cisneros.org/,Absalonsvej 1,1524
+422,Esrom bar,bar,18,http://www.ortiz-wood.com/,Lyngviggade 5,1630
+423,Hanssted resturant,resturant,18,http://benton.com/,Øster Voldgade 927,2170
+424,Krystal bodega,bodega,18,https://smith.org/,Tuborgvej 384,1847
+425,Godsbane bar,bar,18,http://smith-mitchell.com/,Helgolandsvej 1,1975
+426,Linnés café,café,18,http://perez.com/,Kongemarksvej 77,1726
+427,Folke Bernadottes resturant,resturant,18,https://www.figueroa.com/,Meinungsgade 620,2265
+428,Wessels kro,kro,18,http://www.cummings.com/,Arsenalgade 99,1487
+429,Mutzu kro,kro,18,https://www.baker-roberts.com/,Theisvej 2,1144
+430,Egelykke kro,kro,18,https://www.johnson.com/,Weimargade 9,1060
+431,Kongsted resturant,resturant,18,http://daniels.com/,Persillevej 208,1704
+432,Amsterdam resturant,resturant,18,http://www.graham.info/,Gråspurve Allé 7,2238
+433,Skagerrak café,café,18,https://www.stewart.com/,Fensmarkgade 9,1451
+434,Jemtelands resturant,resturant,18,https://www.powell-king.org/,Haderslevvej 99,1377
+435,Kasemat bar,bar,18,http://graham.com/,Fensmarkvej 5,1112
+436,Bremens kro,kro,18,https://www.diaz-franklin.net/,Udbygade 26,1843
+437,Kingos bar,bar,18,https://www.bailey.com/,Skanderborggade 726,2161
+438,Frederiksberg kro,kro,18,http://garrett.com/,Ahlefeldtsstræde 2,2206
+439,Vildande resturant,resturant,18,http://www.freeman.com/,Kleinsvej 9,1570
+440,Eng bar,bar,18,https://www.kirk.net/,Pladehalsvej 63,1212
+441,Gråstens resturant,resturant,18,http://thompson.com/,Rindby Allé 4,2385
+442,Efterslægts café,café,18,http://www.taylor.org/,Møllegårdsvej 6,1079
+443,Emdrup Kær kro,kro,18,https://alexander.com/,Prisholmvej 563,2149
+444,Ceylon kro,kro,18,https://www.gay-wolfe.com/,Krudtløbsvej 211,2125
+445,Uplands bar,bar,18,https://www.marshall.com/,Keplersvej 452,1137
+446,Letlands café,café,18,http://www.bean-hernandez.info/,Heibergsgade 836,1290
+447,Sankelmarks resturant,resturant,18,http://hudson.com/,Fremadsvej 101,1236
+448,Hjelms bar,bar,18,http://conner.com/,Gladiolusstræde 99,1106
+449,Hedemanns resturant,resturant,18,https://www.white.com/,Vedbækgade 203,2355
+450,Nokken Strand bar,bar,18,http://pearson.com/,Fyrbøderstræde 100,1621
+451,Fafners bar,bar,18,http://simpson.info/,Spangbergs Allé 38,1966
+452,Krystal resturant,resturant,18,http://williamson-simmons.info/,Søndervangsvej 2,1725
+453,Elias café,café,18,https://www.martin.com/,Halgreensstræde 48,1582
+454,Shetlands bar,bar,18,http://fox-nguyen.info/,Lille Farimagsvej 5,1552
+455,Sofie Brahes kro,kro,18,https://jones.com/,Borneo Allé 546,2254
+456,Bordeaux bodega,bodega,18,https://www.estrada.info/,Hulgårdsgade 8,1408
+457,Stadil café,café,18,https://garrison-hicks.net/,Dahlerupsstræde 1,1927
+458,Ullerup bodega,bodega,18,http://martinez-potter.com/,Gerbrandsvej 921,2197
+459,Brygger bodega,bodega,18,https://price.com/,Langeliniestræde 54,1174
+460,Rønnebær café,café,18,http://www.warner.com/,Sydhavnsgade 6,2170
+461,Remise resturant,resturant,18,https://johnson.biz/,Teglholmstræde 4,2152
+462,Mansas bar,bar,18,https://gilbert-hess.info/,Birkevej 496,2148
+463,Lejre resturant,resturant,18,https://ford.com/,Trangravsgade 6,1193
+464,Kurlands café,café,18,https://www.rojas-hurst.com/,Byagergade 9,2300
+465,Jæger kro,kro,18,http://www.washington.com/,Lærkegade 7,1565
+466,Jupiter bar,bar,18,http://www.simpson.com/,Lundbyesvej 68,1247
+467,Prøvestens bar,bar,18,https://www.nelson.com/,Hovmål Allé 328,1170
+468,Sundholms bar,bar,18,https://nelson.com/,Kronborgstræde 435,1926
+469,Bandholm kro,kro,18,http://johnson.com/,Grønnehavestræde 45,1158
+470,Malmø kro,kro,18,http://savage.net/,Skudehavnsvej 7,2100
+471,Genua resturant,resturant,18,https://www.saunders.org/,Olymposgade 6,2076
+472,Brøndæble café,café,18,http://www.richard-padilla.biz/,Galionsgade 583,1253
+473,Holsteinborg café,café,18,https://weaver-salas.com/,Fælledens Passagevej 641,1132
+474,Taffelæble bar,bar,18,https://www.freeman.com/,Holbæk Allé 471,2138
+475,Jernæble kro,kro,18,http://www.reed-knight.biz/,Vester Voldvej 79,1957
+476,Gammel Køge Lande bar,bar,18,https://mcdowell-cruz.com/,Strandlodsvej 226,1859
+477,Bulgariens resturant,resturant,18,http://meza.com/,Rodosvej 9,1100
+478,Estlands bodega,bodega,18,https://www.leach.com/,Sneppevej 123,1602
+479,Markmands kro,kro,18,https://mccarthy.biz/,Dahlerupsstræde 9,1562
+480,Dybendals café,café,18,http://www.larson-scott.info/,Ragnagade 690,1225
+481,Syvens café,café,18,https://duncan.com/,Jorisgade 35,1120
+482,Hessens resturant,resturant,18,http://www.bell.net/,Lundtofte Allé 129,1169
+483,Brønshøj Kirke café,café,18,http://www.buchanan.biz/,Erantisvej 68,1691
+484,Antwerpen bar,bar,18,https://johnson.com/,Karlslundevej 324,1583
+485,Nordre Dige resturant,resturant,18,https://www.wheeler.net/,Kasematgade 89,1289
+486,Malmø café,café,18,http://www.hart.org/,Tietgensgade 42,1242
+487,Skoleholder resturant,resturant,18,https://burton.com/,Frederiksgårdsvej 12,1552
+488,Østrigs bodega,bodega,18,https://www.smith.com/,Svendborgvej 97,2191
+489,Hjerting bar,bar,18,https://www.howell-hutchinson.com/,Prisholmvej 9,1726
+490,Thingvalla café,café,18,https://www.johnson-diaz.com/,Rigensvej 2,2093
+491,Hauser resturant,resturant,18,http://chase-harrison.info/,Tybjerg Allé 72,2246
+492,Skotlands resturant,resturant,18,http://www.ochoa.biz/,Vigerslevvej 14,1264
+493,Gdansk bar,bar,18,http://smith-brown.com/,Tranevej 59,2386
+494,Angel resturant,resturant,18,http://marks.com/,Stemannsvej 19,2122
+495,Korfu bodega,bodega,18,http://ford.com/,Vester Sø Allé 26,2240
+496,Markmands bodega,bodega,18,http://www.moon-reed.com/,Emdrup Kær Allé 89,2146
+497,Randbøl kro,kro,18,http://www.bautista.info/,Fabrikmesterstræde 28,1646
+498,Firkløver bar,bar,18,https://www.johnson.biz/,Nordfeldstræde 684,1459
+499,Portlands café,café,18,http://hodge.info/,Athensvej 95,1847
+500,Fuglager bodega,bodega,18,https://wiggins.com/,Stavangergade 1,1714
+501,Ørne kro,kro,18,https://bennett-savage.com/,Thurebyholm Allé 71,1888
+502,Langager café,café,18,http://www.collier.com/,Hillerødmotorenstræde 6,1308
+503,Havne bodega,bodega,18,http://miller.com/,Lejrevej 3,1182
+504,Vånings kro,kro,18,https://huang.com/,Brigårdengade 70,1665
+505,Sankelmarks bodega,bodega,18,http://www.reed-grant.biz/,Torfastræde 16,1692
+506,Guldager resturant,resturant,18,https://www.osborne.com/,Ballumvej 738,1660
+507,Utterslev café,café,18,https://www.stewart-sims.com/,Magvej 48,1772
+508,Lynette café,café,18,http://www.rodriguez-smith.info/,Hammerensvej 1,1716
+509,Ilford bodega,bodega,18,https://www.crane-goodwin.com/,Borthigsvej 815,2076
+510,Jupiter kro,kro,18,https://www.williams-anderson.com/,Asger Jorns Allé 62,2127
+511,Landgilde kro,kro,18,http://www.rowe-lowe.com/,Tudsemindegade 573,1354
+512,Ålstrup café,café,18,https://www.fields-smith.com/,Saltholmsgade 40,1716
+513,Edelsminde café,café,18,https://www.haley.com/,Mjøsensvej 8,2223
+514,Rysensteens kro,kro,18,http://www.casey-saunders.com/,Todesgade 75,1975
+515,Thora café,café,18,https://www.lynch-gardner.com/,Mitchells Allé 71,2032
+516,Tallinn resturant,resturant,18,https://www.waters-olson.info/,Hvidbjerg Allé 13,1795
+517,Upsala resturant,resturant,18,http://www.king.com/,Mutzuvej 17,1210
+518,Oliemølle bodega,bodega,18,https://sharp.net/,Dovrevej 34,1164
+519,Polens bar,bar,18,http://hogan.com/,Kirsteinsgade 9,1149
+520,Stadfeldts bodega,bodega,18,https://herman.net/,Samosvej 13,2057
+521,Hvidkløver bodega,bodega,18,http://stein-mueller.info/,Risbyholmvej 205,1565
+522,Iris bar,bar,18,https://castillo-diaz.info/,Gefionsgade 4,2225
+523,Hareskov café,café,18,http://brown.com/,Søndre Fasanvej 8,1790
+524,Byglands café,café,18,http://www.williams-hamilton.com/,Præstemarksstræde 927,1874
+525,Øresundsmotoren café,café,18,https://johnson.info/,Marstals Allé 6,2001
+526,Reinette bodega,bodega,18,http://www.riley-clarke.info/,Vardevej 135,1747
+527,Birkedommer bodega,bodega,18,https://www.bennett.org/,Rosenvej 13,2089
+528,Frederiksberg bar,bar,18,http://santana.com/,Sigynsvej 89,1109
+529,H.C. Sneedorffs bar,bar,18,http://www.webb.info/,Adriansvej 270,1562
+530,Saabyes bar,bar,18,http://www.diaz.com/,Ellebjergvej 94,2202
+531,Borreby bar,bar,18,https://sheppard.com/,Thyregodsvej 76,1280
+532,Gladbo bar,bar,18,https://walter.biz/,Amager Strandgade 9,1891
+533,Sankt Jørgens bodega,bodega,18,http://mcgee.com/,Theklagade 62,1152
+534,Mindstrup kro,kro,18,http://snyder.biz/,Lemberggade 989,2167
+535,Slesvigs café,café,18,https://henry-walker.com/,Kompagnistræde 54,1269
+536,Limfjords bar,bar,18,http://adams.biz/,Scherfigsstræde 1,1585
+537,Rosen kro,kro,18,http://rivera-lawrence.com/,Kejservej 510,2344
+538,Borups bodega,bodega,18,https://www.cherry.info/,Sylviavej 711,2128
+539,Lille kro,kro,18,http://www.carrillo.com/,Gammel Jernbanestræde 24,1199
+540,Titan bar,bar,18,https://miller.com/,Slagtehusgade 17,2367
+541,Gavlhus bar,bar,18,https://www.knight.info/,Flidsager Allé 3,2097
+542,Thorupgård resturant,resturant,18,http://www.gordon.com/,Skipper Clementsvej 5,1094
+543,Kongshøj bodega,bodega,18,https://www.bond-crawford.org/,Kyringevej 1,1803
+544,Jægersborg resturant,resturant,18,https://www.lopez-randolph.com/,Æblevej 1,1631
+545,Byglands bar,bar,18,https://www.myers.biz/,Æble Allé 741,1460
+546,Helsingborg bodega,bodega,18,http://kelley.com/,Damager Allé 4,2060
+547,Hambros bar,bar,18,https://www.conner-brown.com/,Store Strandgade 104,1921
+548,Amalie resturant,resturant,18,http://duran-freeman.info/,Kattingegade 1,1801
+549,Blekinge bodega,bodega,18,https://www.gibbs-mckee.net/,Houmannsvej 76,1436
+550,Isted resturant,resturant,18,http://smith.org/,Limfjordsgade 9,1198
+551,Meklenborg café,café,18,http://smith.com/,Kaldæastræde 793,1884
+552,Brøndum bar,bar,18,https://fuller-downs.info/,Novemberstræde 6,1066
+553,Øster Sø bodega,bodega,18,http://white-miller.com/,Badstuevej 2,1829
+554,Ingrid Marie bodega,bodega,18,http://ewing.com/,Teglstrupvej 29,2047
+555,Åbjerg kro,kro,18,https://strong.com/,Sætersdalvej 94,1876
+556,Larslejs bodega,bodega,18,https://www.blake.com/,Nysøgade 442,2094
+557,Herholdts bodega,bodega,18,https://rogers.net/,Bagergade 5,2247
+558,Glænø resturant,resturant,18,http://ortega.biz/,Hyacintvej 276,1132
+559,Cylinder café,café,18,http://www.morrison.com/,Bramminge Allé 84,1988
+560,Lindenovs kro,kro,18,https://www.jordan.com/,Etonvej 183,1438
+561,Østersø café,café,18,https://miller.com/,Børsgade 825,2364
+562,Fåborg kro,kro,18,http://www.delgado.org/,Alstedgade 97,2157
+563,Markskifte kro,kro,18,http://medina-vega.com/,Vennelyvej 121,1669
+564,Kongeæble bodega,bodega,18,http://www.nolan.org/,Kilholmgade 1,1696
+565,Hjortholms bodega,bodega,18,https://www.smith.info/,Fjenneslevvej 1,2371
+566,Christianshavns Vold bodega,bodega,18,https://www.flores-duran.com/,Borrebygade 21,2179
+567,Hovgaards café,café,18,http://butler.com/,Hammerensvej 320,2126
+568,Mirabelle resturant,resturant,18,http://perez-rivera.net/,Tordenskjoldsgade 4,2160
+569,Tåstrup bodega,bodega,18,https://french-durham.net/,Katholmstræde 4,1886
+570,Havsgårds bodega,bodega,18,http://fleming.net/,Glostervej 30,2340
+571,Amager bodega,bodega,18,http://adams.com/,Fredensvej 258,1680
+572,Vangs resturant,resturant,18,http://washington.org/,Korinthvej 991,1668
+573,Vognmager bar,bar,18,http://coleman.org/,Adelvej 279,2086
+574,Nattergale resturant,resturant,18,http://mitchell.com/,Mimosavej 30,2250
+575,Kanada bar,bar,18,https://www.turner-nelson.com/,Hemsedalsgade 166,2176
+576,Gadstrup bar,bar,18,http://www.weaver.net/,Amerikavej 873,1567
+577,Clematis kro,kro,18,http://martin.org/,Uplandsgade 57,1918
+578,Ramløse bodega,bodega,18,https://www.steele-cervantes.com/,Urbansgade 6,1124
+579,Borgbjergs café,café,18,http://brown-campbell.info/,Tornebuskegade 18,1911
+580,Suhms resturant,resturant,18,https://brown.biz/,Badensstræde 16,1626
+581,Lindenborg kro,kro,18,http://www.king.com/,Ærtelandsgade 4,1235
+582,Primula kro,kro,18,http://huang.net/,Mimersgade 8,1059
+583,Fakse resturant,resturant,18,http://www.norman.com/,Trekroner Allé 94,1600
+584,Hjertensfryds resturant,resturant,18,https://vargas.net/,Bjerregårds Sidestræde 562,1606
+585,Ugle café,café,18,http://meyer-alvarez.net/,Rådhusgade 24,2352
+586,Vatna resturant,resturant,18,https://neal.com/,Ahornsgade 6,1739
+587,Tudskær resturant,resturant,18,http://richards.com/,Studie Allé 9,1984
+588,Takkelloft kro,kro,18,http://grant-trevino.info/,Klintholmgade 7,2040
+589,Derby café,café,18,http://rodriguez.com/,Lindenovsstræde 171,1346
+590,Sorrento resturant,resturant,18,http://lane-hughes.com/,Gråbrødrevej 5,1353
+591,Samsø kro,kro,18,http://www.noble-reeves.net/,Klostergade 3,1402
+592,Kraftværks café,café,18,http://www.smith.info/,Bomsluttervej 61,1803
+593,Arresø bar,bar,18,https://perry.org/,Nørrebrovej 943,2257
+594,Abildgaards café,café,18,https://www.hines-johnson.com/,Liselundvej 7,1895
+595,Dybendals café,café,18,https://daniel.net/,Torbenfeldtvej 269,2102
+596,Vigerslev café,café,18,https://miller-armstrong.net/,Astersgade 61,1911
+597,Kingston café,café,18,https://www.booth.com/,Per Henrik Lingsvej 261,1937
+598,Lybæk café,café,18,http://www.ortega.org/,Vestre Teglstræde 153,2044
+599,Rostock bar,bar,18,https://www.stanley.net/,Lille Strandvej 502,2056
+600,Horsens resturant,resturant,18,https://www.gutierrez.com/,Ledagerstræde 5,1920
+601,Fafners kro,kro,18,http://www.rubio.com/,Tornebuskevej 236,1181
+602,Elværks bar,bar,18,http://www.foley.net/,Fyensvej 2,1472
+603,Sigbrits bar,bar,18,https://www.perry.com/,Hellestedgade 257,1519
+604,Orlogsværft kro,kro,18,http://www.long.com/,Stadfeldtsgade 280,1261
+605,Svendborg café,café,18,https://www.harris.com/,Bjergmarksvej 756,1368
+606,Raffinaderi resturant,resturant,18,https://www.franklin-hayden.org/,Fragt Allé 248,1252
+607,Nørre Vold resturant,resturant,18,https://james.com/,Efterslægtsgade 114,2380
+608,Fuglager bar,bar,18,http://horn-buchanan.biz/,Teglholmvej 19,1056
+609,Wiinblads kro,kro,18,https://ortiz-sherman.com/,Brivej 722,1925
+610,Dragsholm bodega,bodega,18,https://www.tucker.biz/,Jerichausvej 5,1154
+611,Wittenberg bodega,bodega,18,https://davis-gomez.info/,Strandlodsvej 7,1497
+612,Slutteri bodega,bodega,18,https://www.torres.com/,Kaktusvej 83,1914
+613,Spinderi café,café,18,https://www.taylor.com/,Grønnemosegade 7,1146
+614,Zinns kro,kro,18,https://jacobson.com/,Korsikavej 4,2182
+615,Lotus resturant,resturant,18,https://www.payne-potter.com/,Dagø Allé 4,1292
+616,Armeniens café,café,18,http://ellison-white.com/,Tersløsevej 4,1620
+617,Rønnebær bar,bar,18,http://roth-robinson.info/,Jemtelandsvej 27,2032
+618,Astrup kro,kro,18,http://www.harris.com/,Reventlowsvej 550,1488
+619,Dag Hammarskjölds kro,kro,18,https://hampton-warren.com/,Voldmesterstræde 1,1848
+620,Bremens kro,kro,18,https://armstrong.net/,Skovbogårdsvej 484,1966
+621,Eskildstrup café,café,18,http://tucker.com/,Århusstræde 4,2090
+622,Hyldebær resturant,resturant,18,https://www.jackson-lee.com/,Theisgade 30,1855
+623,Sten kro,kro,18,http://www.porter.info/,Hvedevej 49,2291
+624,Bjernede resturant,resturant,18,http://harris.com/,Vesterviggade 989,1266
+625,Slotsherrens bar,bar,18,http://www.bates.com/,Hvedevej 58,1841
+626,Ingrid Marie bodega,bodega,18,https://wilkins-green.info/,Astersvej 4,1462
+627,Clausholm bar,bar,18,http://www.anderson.info/,Havsgårds Allé 13,2116
+628,Skanderborg café,café,18,http://pierce-vaughan.com/,Strindbergsvej 846,1903
+629,Backers bodega,bodega,18,https://davis.com/,Sylviagade 59,1641
+630,Slotsherrens resturant,resturant,18,https://brown.com/,Løvgade 2,2347
+631,Pomona bodega,bodega,18,https://www.bailey.com/,Præstekærgade 232,1489
+632,Fyrtårn bodega,bodega,18,https://www.ortiz.info/,Sibberns Allé 407,1740
+633,Englands resturant,resturant,18,http://www.mercer.com/,Valby Langvej 6,1260
+634,Mitchells kro,kro,18,https://www.smith.biz/,Larsbjørnsvej 95,2396
+635,Pernille café,café,18,https://newman.com/,Valby Maskinfabriksvej 886,1597
+636,Sejrø kro,kro,18,https://jones-dickerson.com/,Lundtoftegade 59,2157
+637,Sæby resturant,resturant,18,https://lutz-king.com/,Nøragerstræde 32,1664
+638,Byglands kro,kro,18,https://www.dawson.com/,Messinagade 3,1518
+639,Utterslev bodega,bodega,18,https://bishop.info/,Støvnæsvej 75,1612
+640,Bergthoras café,café,18,http://www.hernandez.com/,Degneæblegade 10,1554
+641,Præstekær resturant,resturant,18,https://www.graham.com/,Flensborgvej 394,1353
+642,Derby bar,bar,18,https://lewis.biz/,Fredensgade 7,1574
+643,Arabiens bar,bar,18,https://www.mccarthy.com/,Bredvej 567,1885
+644,Murcia bodega,bodega,18,https://larson.com/,Strandvej 46,2340
+645,Degnemose bodega,bodega,18,http://www.brown.info/,Overskousgade 148,1169
+646,Southampton bodega,bodega,18,http://www.bender.com/,Ellebjergvej 3,2297
+647,Glente bodega,bodega,18,http://downs-wilson.com/,Lundeborgvej 74,1354
+648,Fanø resturant,resturant,18,https://www.forbes-huffman.net/,Toskiftevej 11,1603
+649,Ringsted café,café,18,http://www.gardner.org/,Houmannsstræde 23,2033
+650,Polens café,café,18,https://hale-charles.com/,Uplandsvej 1,1596
+651,Monrads resturant,resturant,18,http://pierce.biz/,Hornbækgade 9,1489
+652,Stenrose resturant,resturant,18,https://love-flores.org/,Hollandsvej 97,1803
+653,Fersken bodega,bodega,18,https://www.butler-delgado.biz/,Ålandsvej 878,2013
+654,Hardenberg bar,bar,18,https://best.com/,Kulgade 28,1743
+655,Ætna bar,bar,18,http://adams.com/,Aggervej 322,2290
+656,Hambros bar,bar,18,http://harper.com/,Læssøesvej 6,2238
+657,Læssøes resturant,resturant,18,http://www.mcdowell.info/,Hørtoftevej 176,2145
+658,Havne bar,bar,18,https://www.bell.com/,Præstøvej 481,1169
+659,Kanonbåds bodega,bodega,18,http://www.gilbert.com/,Jollevej 810,1717
+660,Thingvalla bodega,bodega,18,https://estrada.com/,Bagervej 4,1326
+661,Farum bar,bar,18,http://www.bush.org/,Byagervej 8,1695
+662,Hvidkløver bodega,bodega,18,http://www.green.net/,Bernstorffsgade 22,2061
+663,Hillerød resturant,resturant,18,http://www.spencer.com/,Askøstræde 233,1725
+664,Valhals kro,kro,18,http://martinez-harper.org/,Gothersvej 99,1311
+665,Lipkes bar,bar,18,https://pearson.net/,Helgesensgade 7,1575
+666,Blanka bar,bar,18,http://little.com/,Keldsøvej 525,1230
+667,Hveens bodega,bodega,18,http://www.petersen.com/,Hambrosvej 53,1152
+668,Herjedal bodega,bodega,18,https://romero-miller.org/,Bergthorasvej 707,1402
+669,Æble kro,kro,18,https://www.watson.com/,Blåbærvej 73,1513
+670,Bardenfleths bodega,bodega,18,http://bennett.com/,Engelholmstræde 801,1458
+671,Signelil bodega,bodega,18,https://mack.net/,Skensvedstræde 9,2212
+672,Stenlille café,café,18,http://bowman.com/,Vævervej 5,1914
+673,Radise café,café,18,https://hernandez.com/,Stavangergade 619,1058
+674,Valby Torve kro,kro,18,https://www.fitzgerald.net/,Enebærvej 6,1675
+675,Fakse Tvær bodega,bodega,18,https://campbell-obrien.com/,Sturlasvej 676,1501
+676,Lyshøjgårds kro,kro,18,https://barton.info/,Saltøgade 2,1509
+677,Ejdersted café,café,18,http://www.dickson-frank.com/,Ilfordgade 7,2331
+678,Krusemynte café,café,18,http://thompson.biz/,Gammeltofts Allé 60,1601
+679,Rådhus bodega,bodega,18,https://rhodes.com/,Krogerupvej 768,2111
+680,Bristol resturant,resturant,18,http://thomas.biz/,Grækenlandsgade 142,1097
+681,Bogense kro,kro,18,http://www.wallace.com/,Marmorgade 45,1725
+682,Marskens café,café,18,http://www.coleman.info/,Pernillegade 713,1335
+683,Overn Neden Vandet kro,kro,18,http://foster-riley.biz/,Blankavej 96,1563
+684,Ravneholms bar,bar,18,http://www.hobbs.net/,Hirtshalsstræde 36,2225
+685,Smørum kro,kro,18,https://phillips.com/,Pæonvej 837,1760
+686,Skotlands kro,kro,18,http://brown.com/,Gernersgade 115,1238
+687,Helgolands kro,kro,18,https://miles.com/,Bodilsstræde 62,1664
+688,Frilands café,café,18,https://www.lopez.com/,Kongovej 929,1559
+689,Skipper Clements café,café,18,https://white.com/,Jordbærvej 402,2134
+690,Brønshøj kro,kro,18,https://www.miller.com/,Nyropsvej 737,1790
+691,Joris kro,kro,18,http://www.castillo-thompson.net/,Korfustræde 924,1210
+692,Karens bar,bar,18,http://www.johnson.com/,Boserupvej 38,1867
+693,Tustrup café,café,18,http://green.org/,Sofienhøjvej 551,2357
+694,Pæon bar,bar,18,https://nguyen.com/,Tordenskjolds Allé 1,1242
+695,Amagerfælled café,café,18,http://allen.com/,Aggersvoldvej 9,1610
+696,Rughave kro,kro,18,https://grimes-brown.biz/,Engblommestræde 87,2105
+697,Windsor café,café,18,https://lyons-bauer.com/,Stockholmsstræde 1,1279
+698,Spontinis café,café,18,https://www.guerrero.com/,Burgundygade 61,2363
+699,Ny Kongens bar,bar,18,http://www.schmidt-potter.com/,Meldahlsvej 75,2291
+700,Tudseminde café,café,18,https://callahan.com/,Storm Allé 3,1879
+701,Stockholms kro,kro,18,https://www.thompson.com/,Kasematstræde 4,2230
+702,Dybbøls bodega,bodega,18,http://www.orr.com/,Lille Kirkevej 26,2130
+703,Risbyholm resturant,resturant,18,https://reynolds-wheeler.com/,Gertsgade 7,2205
+704,Persille resturant,resturant,18,https://www.ruiz.biz/,Trondhjems Allé 1,2147
+705,Antwerpen resturant,resturant,18,http://hart.com/,Hørsholmsstræde 15,1666
+706,Kingos bar,bar,18,http://www.rush-lambert.org/,Rodosstræde 429,2345
+707,Kansas café,café,18,https://calderon-rodriguez.com/,Danneskiold-Samsøesvej 6,2174
+708,Ingrid Marie bar,bar,18,https://smith.com/,Bomuldsgade 72,1160
+709,Solskifte bodega,bodega,18,https://www.thomas-rogers.com/,Kulbanestræde 9,2091
+710,Åkande kro,kro,18,https://young-jackson.com/,Gittergade 167,1408
+711,Bilbao bar,bar,18,http://walker.biz/,Bjerregårdsgade 2,1490
+712,Musholm resturant,resturant,18,http://www.perez.com/,Summerredvej 21,1612
+713,Jæger bodega,bodega,18,https://patterson.com/,Vesterbrovej 589,1090
+714,Thyregods café,café,18,https://www.harvey.com/,Bomhusvej 8,2153
+715,Travemünde café,café,18,https://www.smith.org/,Adriansvej 982,2135
+716,Mjøsens café,café,18,http://www.hutchinson.info/,Solitude Allé 6,2019
+717,Siljan bar,bar,18,https://holmes.com/,Tuborgvej 492,1875
+718,Ting kro,kro,18,https://www.morris-moore.com/,Tovværkgade 861,1814
+719,Lunds kro,kro,18,https://stewart-webster.info/,Heilsgade 65,2390
+720,Dronninglund bodega,bodega,18,https://www.stafford-frank.com/,Rødtjørne Allé 1,1793
+721,Ahrenkildes bodega,bodega,18,https://hunt.biz/,Førslevstræde 1,2187
+722,Laplands bodega,bodega,18,https://kim.net/,Strødamvej 67,2239
+723,Sigurds kro,kro,18,https://www.reynolds.org/,Efterslægts Allé 559,2317
+724,Sorø café,café,18,http://moon.com/,Emdrup Mosevej 309,1962
+725,Kina bar,bar,18,http://horton-green.org/,Randersgade 2,1369
+726,Seline kro,kro,18,http://www.sanchez.com/,Oliemøllevej 79,2236
+727,Nordre bar,bar,18,https://www.lamb.com/,Sankelmarksstræde 96,1492
+728,Hellas resturant,resturant,18,http://www.price-ruiz.info/,Rønningsvej 22,1737
+729,Spøttrup café,café,18,https://martinez.com/,Thorupgårdgade 583,1648
+730,Hollands bar,bar,18,http://www.gonzalez-mills.net/,Kattingegade 981,1368
+731,Ravenna resturant,resturant,18,https://www.garrison.com/,Geysersvej 9,1950
+732,Gasværks resturant,resturant,18,http://hogan.net/,Sele Allé 40,1291
+733,Gammeltofts bodega,bodega,18,http://valenzuela-blevins.com/,Knuthenborg Allé 39,1347
+734,Elværks café,café,18,http://www.lee.com/,Rådhusvej 724,1654
+735,Mysunde bodega,bodega,18,http://www.martin.com/,Astersstræde 30,1066
+736,Brønshøjholms bodega,bodega,18,http://marquez.biz/,Livornogade 7,1069
+737,Vånings bar,bar,18,http://tanner.com/,Pladehalsgade 65,1827
+738,Panums bodega,bodega,18,https://gilmore-ward.com/,Snertingevej 16,1257
+739,Kornskyld resturant,resturant,18,http://carter-sanchez.com/,Urbansgade 78,1112
+740,Saltholms resturant,resturant,18,http://www.pena-mills.com/,Kortstilkvej 50,2275
+741,Møntmester resturant,resturant,18,https://www.fernandez.com/,Struenseestræde 53,1615
+742,Amalie café,café,18,http://www.clark.info/,Sigerstedvej 6,1886
+743,Steenbergs resturant,resturant,18,http://www.grimes.com/,Ridefogedvej 81,2290
+744,Næstved resturant,resturant,18,https://www.mullins-holloway.info/,Østerdals Allé 4,1159
+745,Bred kro,kro,18,http://walters.com/,Nokken Strandvej 49,2014
+746,Væbner kro,kro,18,https://www.keller.com/,Sundbyvestervej 2,2373
+747,Irlands kro,kro,18,https://cummings-park.com/,Pistolvej 468,1136
+748,Kloster kro,kro,18,https://williamson.org/,Toftegårdsstræde 70,2252
+749,Vesterfælled bar,bar,18,https://leonard.com/,Store Strandstræde 6,2136
+750,Holsteins bodega,bodega,18,http://wolfe-gould.com/,Eriksvej 7,1779
+751,Rørholms bodega,bodega,18,https://www.riggs.net/,Østervej 157,1604
+752,Edelsminde bodega,bodega,18,https://www.johnson.org/,Nygårdsvej 2,2391
+753,Marskens café,café,18,https://www.davis.info/,Rigensvej 97,2020
+754,Lynæs bar,bar,18,https://www.brown.com/,Kuglegårdsvej 4,2323
+755,Agerlands bar,bar,18,https://herrera-may.com/,Trepkasgade 13,1266
+756,Retort bodega,bodega,18,https://patrick-warren.com/,Gaunøgade 9,1782
+757,Fuglager bar,bar,18,http://www.fernandez-ponce.biz/,Åløkkevej 817,1288
+758,Nørre Farimags kro,kro,18,http://www.jones-barton.net/,Gormsvej 281,1692
+759,Freunds resturant,resturant,18,http://www.green-barton.com/,Dragsholmvej 38,1759
+760,Badstue café,café,18,https://www.rogers.com/,Tårnholms Allé 64,2396
+761,Engelsteds kro,kro,18,https://www.scott.info/,Torbenfeldtvej 571,2313
+762,Eskildstrup resturant,resturant,18,https://www.stephens-hall.com/,Bernstorffsvej 67,1899
+763,Industri resturant,resturant,18,https://rodriguez-bauer.com/,Byglands Allé 1,1784
+764,Bavnager café,café,18,https://www.warren.com/,Ægirsstræde 8,1748
+765,Palnatokes resturant,resturant,18,http://king-olson.com/,Rebslagerstræde 28,1537
+766,Rosmarin bodega,bodega,18,https://ray-scott.com/,Radisevej 53,2112
+767,Amager Strand bar,bar,18,https://www.rasmussen-kirk.com/,Formosavej 802,1164
+768,Herholdts café,café,18,https://dennis.info/,Stevnsvej 22,1282
+769,Vangså bodega,bodega,18,https://grant-baker.net/,Kortstilk Allé 474,1402
+770,Hemsedals bodega,bodega,18,http://williams.com/,Krausesvej 281,2366
+771,Musvåge resturant,resturant,18,https://nelson.net/,Sylvia Allé 4,1748
+772,P.D. Løvs kro,kro,18,https://novak-johnson.biz/,Markmandsvej 360,2243
+773,Dunkerque kro,kro,18,https://www.bennett-bowers.com/,Glumsøvej 681,2033
+774,Norges bar,bar,18,http://www.levy.com/,Peter Ipsensvej 578,1834
+775,Reberbane bar,bar,18,http://fox-hansen.com/,Sonnerupgade 10,1863
+776,Brolægger bar,bar,18,http://www.thompson.com/,Trondhjemsvej 84,1254
+777,Gerdas bar,bar,18,https://www.montgomery.com/,Vestergårdsgade 758,1737
+778,Hallins café,café,18,http://rose-armstrong.biz/,Frederiksborgvej 43,2394
+779,Vølunds bar,bar,18,http://www.howard.com/,Åløkkegade 89,1994
+780,Bulgariens resturant,resturant,18,http://murphy-valencia.com/,Steinsstræde 278,1806
+781,Gammel Køge Lande resturant,resturant,18,https://watson.info/,Bjergstedvej 853,2384
+782,Pistol bar,bar,18,https://www.nguyen.info/,Store Kirke Allé 18,1934
+783,Stoltenbergs resturant,resturant,18,https://fox.com/,Alstedstræde 92,1866
+784,Danstrup bodega,bodega,18,https://www.wilson.com/,Ejler Billesgade 73,1296
+785,Degneæble bodega,bodega,18,http://williams.com/,Landskronavej 850,2049
+786,Takkelads café,café,18,http://mitchell.com/,Elselillevej 4,1306
+787,Enebær bar,bar,18,http://parker.com/,Cæcilia Allé 56,1074
+788,Dybbøls resturant,resturant,18,https://ho.info/,Skibelundvej 870,1899
+789,Egholm kro,kro,18,https://robertson.com/,Burmeisters Allé 34,1103
+790,Roskilde kro,kro,18,https://horn.net/,Fenrisstræde 9,1424
+791,Stenderup resturant,resturant,18,https://www.diaz.net/,Fenris Allé 83,1822
+792,Torfa bodega,bodega,18,http://allen-sherman.com/,Knippelsbrovej 48,1640
+793,Vangså bar,bar,18,https://www.miller.org/,Belgiensvej 79,1365
+794,Elme bodega,bodega,18,http://alvarez.com/,Vindingevej 352,1266
+795,Hinde café,café,18,http://edwards-moore.com/,Ørhagevej 10,1088
+796,Kroghs resturant,resturant,18,http://wells.com/,Røddingvej 18,1862
+797,Jordbær bar,bar,18,http://davidson-blackwell.info/,Førslevgade 6,2151
+798,Omø resturant,resturant,18,http://www.miller.com/,Slesvigsvej 549,1060
+799,Scherfigs bodega,bodega,18,http://george.com/,Vermundsvej 8,1560
+800,Sundeveds resturant,resturant,18,http://hanson.org/,Finlandsgade 9,1375
+801,Smørum bar,bar,18,https://www.wolf.biz/,Lynettevej 954,1751
+802,Sommersted bar,bar,18,https://www.parker-reed.biz/,Minørgade 1,1205
+803,Landfoged bodega,bodega,18,http://boone.com/,Klostermarks Allé 4,2192
+804,Hanstholm bar,bar,18,https://white-ruiz.com/,Marstalsgade 90,1409
+805,Ringkøbing resturant,resturant,18,https://rios-stewart.com/,Hovedvagtsgade 4,2248
+806,Danshøj kro,kro,18,https://santiago-jenkins.com/,Hirsegade 30,2100
+807,Haralds bar,bar,18,https://www.gregory-santos.com/,Ulrik Birchsgade 258,1925
+808,Pakhus bar,bar,18,http://www.smith.net/,Lundeborggade 21,1132
+809,Købmager bodega,bodega,18,http://www.miller-davenport.com/,Møntergade 7,1439
+810,Hinde bodega,bodega,18,http://david-martin.info/,Vendersgade 63,2303
+811,Raunstrup bodega,bodega,18,http://green.com/,Byglandsvej 7,1208
+812,Amager bar,bar,18,http://www.stephens.com/,Nordbyvej 371,1865
+813,Kulbane resturant,resturant,18,https://madden.info/,Æbeløgade 82,1293
+814,Risager bodega,bodega,18,https://singleton.com/,Dalslandsvej 9,2368
+815,Malakka kro,kro,18,https://www.whitehead.com/,Søflyvej 3,1842
+816,Rabarber kro,kro,18,http://vazquez-brown.com/,Engdalsvej 530,2196
+817,Bager kro,kro,18,http://dyer.biz/,Gadekærgade 89,2363
+818,Havsgårds resturant,resturant,18,http://santos.biz/,Klintevej 764,1142
+819,Ekvipagemester bodega,bodega,18,http://www.anderson.org/,Wagnersgade 798,1539
+820,Søndre Fasan kro,kro,18,https://taylor-ellis.biz/,Store Strandvej 705,1092
+821,Mirabelle café,café,18,https://small-smith.com/,Fakse Tværgade 392,2005
+822,Snare café,café,18,http://greene-west.com/,Følfodvej 373,1901
+823,Overbys bar,bar,18,http://owen.com/,Bolandsgade 587,2268
+824,Fladstjerne bar,bar,18,http://dodson.net/,Rømersvej 72,2200
+825,Brages café,café,18,https://www.daniels.com/,Fakse Tværgade 475,2145
+826,Bramslykke resturant,resturant,18,https://www.ferguson.com/,Folevadsvej 140,2077
+827,Firkløver resturant,resturant,18,http://hall.com/,Gamle Vasby Allé 361,2184
+828,Speditør bar,bar,18,https://www.hayden.info/,Veksøvej 282,1859
+829,Hvidtjørne resturant,resturant,18,https://www.rhodes-johnson.org/,Ebertsvej 394,1461
+830,Christen Bergs resturant,resturant,18,http://www.perkins-fischer.com/,Arabiensgade 1,1620
+831,Murcia café,café,18,https://www.castillo-miller.org/,Beethovensvej 830,1360
+832,Weidekamps café,café,18,https://www.hopkins.net/,Kirkebjerg Allé 46,2210
+833,Prinsesse café,café,18,http://anderson-thomas.com/,Gislingegade 919,1408
+834,Hobro bodega,bodega,18,https://www.fields.com/,Sydløbsvej 4,1221
+835,Gjorslev café,café,18,https://hart.net/,Saabyesvej 30,1738
+836,Hamlets bar,bar,18,https://www.parker.com/,Irlandsgade 26,1579
+837,Kroghs café,café,18,http://garcia.com/,Rosenvængets Allé 921,1566
+838,Langebro café,café,18,https://www.nguyen.com/,Tranehavevej 1,1836
+839,Admiral café,café,18,https://fuller.com/,Saltholmsstræde 13,2208
+840,Lille Colbjørnsens resturant,resturant,18,https://combs-dixon.net/,Normandi Allé 25,1077
+841,Vester Sø bar,bar,18,http://www.potter-davis.com/,Dagmarsgade 705,1316
+842,Stemanns café,café,18,https://www.rodgers.info/,Nelson Mandelasvej 5,1512
+843,Botofte bar,bar,18,https://www.allen.net/,Tønnesstræde 93,1194
+844,Kongsted bodega,bodega,18,http://wade-davidson.com/,Fortunvej 970,2150
+845,Rubinola bodega,bodega,18,https://www.anderson.com/,Tølløsestræde 101,1456
+846,Sognefjords bodega,bodega,18,http://www.davis-anderson.com/,Gyldenløvesvej 44,1929
+847,Thyras bar,bar,18,http://lozano.biz/,Boserupvej 58,2232
+848,Lønborg bar,bar,18,https://hall.com/,Overbysvej 198,2184
+849,Puggaards resturant,resturant,18,http://morgan.com/,Vestergade 205,1851
+850,Lille Søndervold bar,bar,18,https://www.walker.org/,Reykjaviksgade 3,1219
+851,Bakke kro,kro,18,http://www.morales.com/,Rosendalsgade 968,1363
+852,Reverdils kro,kro,18,http://chang.com/,Vester Søgade 40,1111
+853,Thorupgård resturant,resturant,18,https://ford.com/,Hjertingvej 478,1833
+854,Musholm resturant,resturant,18,http://johnson.info/,Irisvej 642,1331
+855,Birke bodega,bodega,18,http://www.ortiz.com/,Slåenstræde 3,2272
+856,Pernille bar,bar,18,http://www.rogers.biz/,Teglholm Tværvej 6,2152
+857,Uffes bodega,bodega,18,https://miles-barajas.com/,Blekingegade 90,1201
+858,Gråbrødre bar,bar,18,http://murphy.biz/,Keldsøgade 774,1831
+859,Malmø bar,bar,18,http://www.robinson.org/,Mårumgade 690,1635
+860,Dovre bar,bar,18,https://blair.com/,Børglumvej 698,1863
+861,Hauser café,café,18,http://www.lamb.net/,Vesterfælled Allé 190,1415
+862,Varde bar,bar,18,https://thomas-curtis.org/,Monradsvej 4,1659
+863,Dronning Dagmars bar,bar,18,https://smith-barnes.com/,Spangbergsvej 971,1762
+864,Værksted resturant,resturant,18,https://www.washington.com/,Caprivej 67,2146
+865,Hillerødmotoren café,café,18,https://thomas.com/,Klaipedastræde 3,1231
+866,Søndervangs bodega,bodega,18,http://haynes.net/,Staldstræde 98,1662
+867,Hagested bar,bar,18,https://www.conner.com/,Svendborgvej 2,1999
+868,Wessels kro,kro,18,https://www.dixon.net/,Borneogade 884,1644
+869,Nordborg bodega,bodega,18,https://smith.org/,Bissensvej 431,2263
+870,Skippinge kro,kro,18,https://www.west.com/,Arsenalstræde 4,2309
+871,Australiens café,café,18,http://www.perkins.com/,Frederikssundsgade 99,1958
+872,Stefans café,café,18,http://wood-brewer.net/,Mælkeenvej 19,2316
+873,Siciliens kro,kro,18,https://harrison-davis.org/,Hyldebærgade 1,1156
+874,Smyrna café,café,18,http://www.smith.info/,Kongelundsvej 909,1377
+875,Laura bar,bar,18,http://herrera-simmons.com/,Fengersvej 55,2338
+876,Vigerslev kro,kro,18,https://www.carter.biz/,Hovedvagtsgade 9,1280
+877,Lavendel resturant,resturant,18,https://martinez.org/,Spiræavej 9,2347
+878,Gulkløver bodega,bodega,18,http://www.cherry.org/,Meldahlsvej 25,1553
+879,Himmerlands bar,bar,18,http://www.mendoza-barnett.net/,Krudtløbs Allé 38,2082
+880,Rubinola bodega,bodega,18,http://johnson.info/,Pallesvej 4,1862
+881,Kløverblads kro,kro,18,https://www.golden.com/,Aarestrupsstræde 9,1484
+882,Kleins resturant,resturant,18,https://gray.org/,Händelsvej 375,2109
+883,Schleppegrells bar,bar,18,https://haynes.net/,Borthigsvej 4,2234
+884,Bred café,café,18,http://www.yang.biz/,Jansgade 61,1057
+885,Klosterris kro,kro,18,https://www.bell-mckenzie.info/,Støbegodsvej 988,1462
+886,Børskov bodega,bodega,18,https://young-torres.com/,Gyldenlakgade 5,1824
+887,Pile resturant,resturant,18,https://turner.com/,Hambrosvej 991,2166
+888,Sundholms bodega,bodega,18,https://www.meyers-perry.com/,Gartnerivej 9,1522
+889,Haderslev café,café,18,https://smith.com/,Landskronavej 5,1127
+890,Sylvia bar,bar,18,https://massey-huber.org/,Kirkegårdsstræde 714,2185
+891,Slagelse bodega,bodega,18,https://www.martin-montoya.com/,Hausergade 82,1527
+892,Langager resturant,resturant,18,https://jones-brown.net/,Æblegade 6,1610
+893,Tømmergravs resturant,resturant,18,https://www.rodriguez.biz/,Odinsvej 87,1866
+894,Gerbrands café,café,18,https://allen.com/,Trekronergade 83,2061
+895,Jena kro,kro,18,http://simpson-dixon.com/,Amagermotorenvej 331,1315
+896,Knabstrup bar,bar,18,https://thompson-kelly.org/,Holsteinborg Allé 4,2195
+897,Skyggelunds kro,kro,18,http://phillips.com/,Nygårdsvej 4,1979
+898,Henriks kro,kro,18,https://ray.com/,Amalievej 3,2050
+899,Tingskifte bar,bar,18,https://www.miller.com/,Southamptongade 39,1856
+900,Brolægger bodega,bodega,18,https://wise.info/,Mosedal Allé 83,1738
+901,Eskildstrup bar,bar,18,https://brown.net/,Karlstadsvej 396,1242
+902,Torbenfeldt kro,kro,18,https://webster.info/,Søllerød Allé 2,1137
+903,Helleliden resturant,resturant,18,http://www.barton.com/,Emdrupgade 3,1954
+904,Willums bar,bar,18,https://www.wallace.com/,Pallesvej 3,1404
+905,Serbiens bodega,bodega,18,http://cain.org/,Rigensvej 87,2078
+906,Tønnes bar,bar,18,https://www.williamson.com/,Vennemindestræde 644,2093
+907,Vermlands resturant,resturant,18,http://thomas.com/,Kretavej 850,2118
+908,Birkedommer café,café,18,http://www.blankenship.net/,Henriksvej 45,1453
+909,Dannevirke bar,bar,18,https://hampton.com/,Hesseløvej 971,1786
+910,Hinde bodega,bodega,18,https://www.fritz.com/,Agerlandsvej 212,1182
+911,Olympos café,café,18,https://rodriguez.info/,Korsørgade 67,1156
+912,Teglholm Tvær resturant,resturant,18,https://roy.com/,Sibeliusgade 651,1140
+913,Varde bodega,bodega,18,https://www.flynn-hampton.com/,Vognborgvej 288,1412
+914,Fanø bar,bar,18,http://thomas.com/,Hanstholmgade 3,1634
+915,Hovedvagts resturant,resturant,18,http://www.jones-chen.biz/,Tietgensgade 704,1138
+916,Vestbane bodega,bodega,18,http://www.huff.com/,Blekingegade 780,2076
+917,Parnas kro,kro,18,http://www.wilson.com/,Bjergmarksgade 1,2208
+918,Tønder resturant,resturant,18,http://garcia.com/,Vanløsevej 3,1238
+919,Retort resturant,resturant,18,https://mcdonald-mccormick.net/,Himmerlandsvej 322,2098
+920,Læssøes bodega,bodega,18,https://cox-barnes.org/,Hellasvej 684,2373
+921,Ellebjerg café,café,18,http://www.scott.com/,Skarø Allé 810,1857
+922,Ingerslevs café,café,18,http://www.williams.net/,Landskronavej 537,1771
+923,Støvnæs resturant,resturant,18,https://www.white.com/,Wildersgade 510,1150
+924,Bomslutter bodega,bodega,18,https://foster-rodriguez.com/,Ulriksdalvej 8,2027
+925,Artilleri kro,kro,18,http://clark.com/,Højsagerstræde 9,1924
+926,Toftager café,café,18,http://www.lee.com/,Bredahlsvej 6,2255
+927,Grenå café,café,18,http://www.harvey.com/,Primulagade 75,1355
+928,Industri bodega,bodega,18,https://lopez.net/,Tybjerggade 811,2256
+929,Lautrups bodega,bodega,18,https://miller-bennett.com/,Nordmarksstræde 1,1618
+930,Omø kro,kro,18,http://www.alvarado-ingram.com/,Tranehavestræde 354,2293
+931,Bissens café,café,18,https://ray-zimmerman.org/,Glentevej 3,1900
+932,Lykkebo resturant,resturant,18,http://www.yates.com/,Brønshøj Kirkevej 14,2114
+933,Donau kro,kro,18,http://taylor.com/,Baggesensgade 57,2228
+934,Skyttegård bodega,bodega,18,http://www.vazquez.com/,Gyldenris Allé 521,1282
+935,Harboøre kro,kro,18,https://www.lee-reyes.com/,Lyrskovgade 58,2225
+936,Grønris bodega,bodega,18,http://www.lee.com/,Ydunsvej 184,1079
+937,Boyes kro,kro,18,https://www.levine-jones.com/,Toftøje Allé 886,1730
+938,Kongsted café,café,18,https://ballard.net/,Gårdfæstegade 39,1804
+939,Frederiks bodega,bodega,18,https://www.miller-singh.com/,Østerbrostræde 2,1120
+940,Strindbergs café,café,18,https://www.delacruz.com/,Serbiensvej 49,2243
+941,Kvægtorvs kro,kro,18,https://www.barker.com/,Landehjælpgade 4,2043
+942,Skelmose kro,kro,18,http://martin.com/,Parnasvej 1,2155
+943,Rigens resturant,resturant,18,https://shea.com/,Kastrupvej 847,1735
+944,Linnés bodega,bodega,18,https://www.stephens-bowman.biz/,Husum Allé 99,2164
+945,Brydes kro,kro,18,http://www.smith.com/,Krügersvej 6,1379
+946,Hindustan café,café,18,https://miller.com/,Romsøgade 50,1789
+947,Bohrs bar,bar,18,http://rodriguez.info/,Lyneborggade 52,1349
+948,Sorrento bodega,bodega,18,https://www.perry-brown.com/,Havdrup Allé 168,1353
+949,Horsens bodega,bodega,18,http://www.stewart-anderson.info/,Reinettevej 1,1270
+950,Hørtofte resturant,resturant,18,https://valenzuela-hill.biz/,Hans Bogbindersgade 76,1699
+951,Nelson Mandelas bodega,bodega,18,http://www.lewis-zuniga.info/,Karlstadsgade 874,1911
+952,Ørevads café,café,18,http://moore.net/,Ryvangsstræde 692,1749
+953,Nivå café,café,18,https://peters.biz/,Tryggevældestræde 7,2296
+954,Urbans café,café,18,https://stewart.com/,Gadekærgade 81,1127
+955,Østre Tegl kro,kro,18,http://cooper.biz/,Mantuavej 2,2341
+956,Ahrenkildes bar,bar,18,https://jones.com/,Kortstilkvej 95,1593
+957,Dublin resturant,resturant,18,http://grimes.com/,Vallø Allé 26,2177
+958,Ragnhild café,café,18,https://lee-martin.org/,Rugvej 6,2225
+959,Bogholder bodega,bodega,18,https://cardenas.org/,Tårnhusgade 40,1220
+960,Haraldsted kro,kro,18,http://www.allen.biz/,Buntmager Allé 28,1398
+961,Birkager café,café,18,https://www.kelly.com/,Cox Orangevej 8,1897
+962,Ulriksdal kro,kro,18,https://torres.com/,Åkandegade 845,1308
+963,Rosen café,café,18,https://murphy-miller.net/,Heisesgade 2,2178
+964,Skotterup café,café,18,https://www.briggs.com/,Ehlersvej 88,1530
+965,Nordbane bar,bar,18,http://www.weeks.com/,Bristolvej 30,1252
+966,Voldmester café,café,18,https://www.martinez.net/,Athensgade 372,2033
+967,Pernille kro,kro,18,http://johnson.biz/,Overn Oven Vandetgade 791,2098
+968,Bjergsted café,café,18,https://hines-kelley.biz/,Meldahlsvej 60,1467
+969,Sankelmarks bodega,bodega,18,http://www.chavez-jones.com/,Bellidavej 2,1203
+970,Kjeldsgårds bodega,bodega,18,http://www.douglas-kaiser.biz/,Thyvej 878,1696
+971,Høsterkøb café,café,18,http://www.daniel.com/,Gullfossstræde 8,1656
+972,Langager bodega,bodega,18,http://www.rivera.com/,Spontinisvej 837,1322
+973,Skotlands kro,kro,18,http://www.garza.info/,Vejrøgade 145,1955
+974,Sundeveds café,café,18,https://stevenson-edwards.biz/,Lærdalsvej 9,1126
+975,Takkelloft kro,kro,18,https://ramos.com/,Gefions Allé 5,1696
+976,Calais resturant,resturant,18,http://chen.org/,Høgholtgade 64,1385
+977,Frejas bodega,bodega,18,http://www.vincent.com/,Beethovensgade 48,1133
+978,Aggersborg bodega,bodega,18,http://www.higgins.com/,Lundsgade 9,2339
+979,Dompap bodega,bodega,18,https://matthews.com/,Heldbogade 70,1919
+980,Nordhavns bar,bar,18,https://robinson-day.com/,Svanegade 65,1454
+981,Hare bar,bar,18,https://www.thompson.com/,Fragtvej 90,1285
+982,Spanager bodega,bodega,18,https://www.butler.com/,Fengersstræde 394,1316
+983,Vedbæk bodega,bodega,18,http://www.franklin.info/,Hellebækgade 8,2086
+984,Hareskov kro,kro,18,https://cole-jennings.info/,Signelilgade 4,1595
+985,Schacks resturant,resturant,18,https://barnett.info/,Bardenflethsgade 167,1452
+986,Bohlendach kro,kro,18,http://www.cohen-oliver.info/,Rahbeksvej 2,1789
+987,Bodils resturant,resturant,18,https://www.floyd.net/,Uralvej 623,1735
+988,Ballum bodega,bodega,18,http://www.murphy-smith.com/,Trepkasgade 907,1776
+989,Solitude bar,bar,18,http://www.martinez.com/,Egilsvej 578,2351
+990,Emdrup kro,kro,18,https://cantrell.com/,Rosbæksvej 6,1078
+991,Eberts resturant,resturant,18,http://www.stevenson-baker.com/,Klerkegade 7,1116
+992,Venneminde bar,bar,18,http://olsen-johnson.net/,Hemsedalsvej 153,1568
+993,Slotsherrens bodega,bodega,18,https://knight.net/,Mandalsstræde 1,1131
+994,Verona kro,kro,18,https://www.french.com/,Sorøvej 65,1521
+995,James Grieve kro,kro,18,http://www.larson-mitchell.info/,Ekvipagemestergade 90,2123
+996,Rostgaards bar,bar,18,https://www.young-richards.com/,Solsikkevej 2,1121
+997,Brøndæble bodega,bodega,18,https://brennan-owen.com/,Oldermandsstræde 69,1460
+998,Delos bar,bar,18,https://www.williams-howard.com/,Dronning Dagmarsstræde 182,1957
+999,Store Kannike café,café,18,https://www.francis.com/,Skåne Allé 6,1547
+1000,Ting resturant,resturant,18,http://www.strickland.com/,Guldstjernestræde 865,2086

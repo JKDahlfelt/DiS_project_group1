@@ -1,0 +1,22 @@
+{% extends "layout.html" %}
+{% block content %}
+<table class="table table-striped">
+	<thead>
+	  <tr>
+		<th scope="col">Drink</th>
+		<th scope="col">Bar</th>
+		<th scope="col">Price</th>
+		<th scope="col">Quantity</th>
+	  </tr>
+	</thead>
+	<tbody>
+	  {% for n in most_sold_beers %}
+		  <tr>
+			  {% for cell in n %}
+			  <td> {{cell}} </td>
+			  {% endfor %}
+		  </tr>
+	  {% endfor %}
+	</tbody>
+  </table>  
+{% endblock content %}

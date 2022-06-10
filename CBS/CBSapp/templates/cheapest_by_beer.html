@@ -1,0 +1,52 @@
+{% extends "layout.html" %}
+{% block content %}
+	<!-- <p>Here you can search for the cheapest beer among different locations 555</p>
+	<ul>
+		<li>test</li>
+		<li>test</li>
+	</ul>
+		<p>test1</p>
+		<form>
+			<label for="fname">Beer Name:</label><br>
+			<input type="text" id="bname" name="bname"><br>
+			<label for="lname">Resturant name:</\beersearchlabel><br>
+			<input type="text" id="Rname" name="Rname"><br>
+			<label for="lname">Beer price:</label><br>
+			<input type="text" id="BPname" name="BPname"><br>
+		</form> -->
+			<table class="table table-striped">
+			  <thead>
+				<tr>
+				  <!-- <th scope="col">Rest_id</th> -->
+				  <th scope="col">Bar Names</th>
+				  <th scope="col">Bar type</th>
+				  <th scope="col">Address</th>
+				  <!-- <th scope="col">Age Limit</th> -->
+				  <th scope="col">Link</th>
+				  <!-- <th scope="col">Postal Code</th> -->
+				  <th scope="col">0.5L Price</th>
+				</tr>
+			  </thead>
+			  <tbody>
+				{% for n in bars_beer_data %}
+					<tr>
+						{% for cell in n %}
+						<td> {{cell}} </td>
+						{% endfor %}
+					</tr>
+				{% endfor %}
+			  <!-- {% for n in drinks_data %}
+				<tr>
+				  <th scope="row">{{n[0]}}</th>
+				  <td>{{n[1]}}</td>
+				  <td>{{n[2]}}</td>
+				  <td>{{n[3]}}</td>
+				  <td>{{n[4]}}</td>
+				  <td>{{n[5]}}</td>
+				  <td>{{n[6]}}</td>
+				</tr>
+			  {% endfor %} -->
+			  </tbody>
+			</table>  
+{% endblock content %}
+
