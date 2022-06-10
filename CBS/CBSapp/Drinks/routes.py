@@ -2,7 +2,7 @@ from flask import render_template, url_for, flash, redirect, request, Blueprint
 from CBSapp import app, conn, bcrypt
 from CBSapp.forms import CustomerLoginForm, EmployeeLoginForm
 from flask_login import login_user, current_user, logout_user, login_required
-from CBSapp.models import select_Bars, select_Drinks, select_Bars_Beers, select_Bars_Cider, select_Bars_Shot, select_Bars_KU, select_top_5_sold
+from CBSapp.models import select_Bars, select_Drinks, select_Bars_Beers, select_Bars_Cider, select_Bars_Shot, select_Bars_KU
 
 
 Drinks = Blueprint('Drinks', __name__)

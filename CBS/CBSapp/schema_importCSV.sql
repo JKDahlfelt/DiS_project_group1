@@ -10,9 +10,7 @@
 -- 	PRIMARY KEY (Rest_id, D_id)
 -- );
 
-
-
-drop table Drinks;
+drop table if exists Drinks;
 CREATE TABLE Drinks (
 	rest_id int,
 	d_id int,
@@ -24,7 +22,7 @@ CREATE TABLE Drinks (
 	PRIMARY KEY (rest_id, d_id)
 );
 
-drop table Bars;
+drop table if exists Bars;
 CREATE TABLE Bars (
 	rest_id int,
 	bar_name varchar,
@@ -37,8 +35,8 @@ CREATE TABLE Bars (
 );
 
 
-COPY Drinks FROM '/Users/marcusthomsen/Desktop/School/2_yr/DIS/CBS/CBSapp/drinks.csv' DELIMITER ',' CSV Header;
-COPY Bars FROM '/Users/marcusthomsen/Desktop/School/2_yr/DIS/CBS/CBSapp/bars.csv' DELIMITER ',' CSV Header;
+COPY Drinks FROM 'C:\Users\jespe\KU\DiS\Project_CBS\test_dis\DiS_project_group1\CBS\CBSapp\drinks.csv' DELIMITER ',' CSV Header;
+COPY Bars FROM '\Users\jespe\KU\DiS\Project_CBS\test_dis\DiS_project_group1\CBS\CBSapp\bars.csv' DELIMITER ',' CSV Header;
 
 ALTER TABLE Drinks
 ADD Column halfliter_price float;
